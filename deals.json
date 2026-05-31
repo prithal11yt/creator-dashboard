@@ -1,95 +1,48 @@
 {
-  "last_updated": "2026-05-31T00:00:00Z",
+  "last_updated": "2026-05-31T13:30:00Z",
   "talking": [
-    {
-      "brand": "Simplilearn (via Hobo.Video)",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Hobo.Video June campaign outreach; rates sent today via draft reply",
-      "date": "May 27, 2026"
-    },
-    {
-      "brand": "AK Media India (Sachin)",
-      "type": "Midroll Integration",
-      "amount": 200,
-      "status": "Negotiating",
-      "notes": "New outreach for SuperProfile.bio campaign; draft reply with rates sent today",
-      "date": "May 24, 2026"
-    },
-    {
-      "brand": "Leads Sniper",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Interested in short clips or dedicated video; draft reply with rates sent today",
-      "date": "May 18, 2026"
-    },
     {
       "brand": "Arcads",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Quoted $500 for dedicated video; Nathan requested YouTube metrics on May 29",
+      "notes": "Nathan replied asking for YouTube metrics on May 29 — sent over, awaiting next steps.",
       "date": "May 25, 2026"
-    },
-    {
-      "brand": "CourseNJobs",
-      "type": "Midroll Integration",
-      "amount": 200,
-      "status": "Negotiating",
-      "notes": "Ed-Tech outreach; replied with rates on May 26, awaiting response",
-      "date": "May 26, 2026"
-    },
-    {
-      "brand": "AK Media India (Krishna)",
-      "type": "Midroll Integration",
-      "amount": 200,
-      "status": "Negotiating",
-      "notes": "Agency outreach; shared media kit and WhatsApp on May 15, awaiting response",
-      "date": "May 14, 2026"
-    },
-    {
-      "brand": "Higgsfield AI (via Social Automata)",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Sophia from Social Automata representing Higgsfield AI; media kit sent May 13",
-      "date": "May 12, 2026"
-    },
-    {
-      "brand": "i10X AI",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Maria reached out for dedicated video; quoted $500, awaiting confirmation since May 12",
-      "date": "May 11, 2026"
-    },
-    {
-      "brand": "EdgeSpark",
-      "type": "Midroll Integration",
-      "amount": 200,
-      "status": "Negotiating",
-      "notes": "Lisa from EdgeSpark reached out; sent rates on May 12, awaiting response",
-      "date": "May 11, 2026"
-    },
-    {
-      "brand": "Runable AI",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Suryansh reached out; sent rates on May 12 and May 15, no confirmed deal",
-      "date": "May 10, 2026"
-    },
-    {
-      "brand": "Madly Famous (Finance Brand)",
-      "type": "Midroll Integration",
-      "amount": 200,
-      "status": "Negotiating",
-      "notes": "Geetika from Madly Famous; quoted $200 for integration on May 2, no follow-up",
-      "date": "May 2, 2026"
     }
   ],
-  "active": [],
+  "active": [
+    {
+      "brand": "YCloud",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Confirmed",
+      "notes": "Deal confirmed, content pending delivery.",
+      "date": "May 2026"
+    },
+    {
+      "brand": "Tiantian Liu",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Confirmed",
+      "notes": "Deal confirmed, content pending delivery.",
+      "date": "May 2026"
+    },
+    {
+      "brand": "Suno",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Confirmed",
+      "notes": "Deal confirmed, content pending delivery.",
+      "date": "May 2026"
+    },
+    {
+      "brand": "Alexendra",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Confirmed",
+      "notes": "Deal confirmed, content pending delivery.",
+      "date": "May 2026"
+    }
+  ],
   "finished": []
 }
