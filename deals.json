@@ -1,13 +1,37 @@
 {
-  "last_updated": "2026-05-31T13:30:00Z",
+  "last_updated": "2026-05-31T14:00:00Z",
   "talking": [
     {
       "brand": "Arcads",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Nathan replied asking for YouTube metrics on May 29 — sent over, awaiting next steps.",
+      "notes": "Nathan asked for YouTube metrics on May 29 — sent over, awaiting next steps.",
       "date": "May 25, 2026"
+    },
+    {
+      "brand": "Nexvora Media",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Ali confirmed $500 works; Prithal shared channel audience details on May 31, awaiting next steps.",
+      "date": "May 30, 2026"
+    },
+    {
+      "brand": "OiiOii.AI",
+      "type": "Dedicated Video",
+      "amount": 400,
+      "status": "Negotiating",
+      "notes": "Rates shared via MCN rep; brand reviewing channel before confirming.",
+      "date": "May 27, 2026"
+    },
+    {
+      "brand": "SeekhoBecho",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Interested in YouTube promo for e-commerce learning app; contact shared, rates not yet discussed.",
+      "date": "May 30, 2026"
     }
   ],
   "active": [
@@ -42,6 +66,14 @@
       "status": "Confirmed",
       "notes": "Deal confirmed, content pending delivery.",
       "date": "May 2026"
+    },
+    {
+      "brand": "aify.media",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Confirmed",
+      "notes": "Partnership agreement sent by Aakash Verma on May 28; Prithal to review and sign to finalize.",
+      "date": "May 28, 2026"
     }
   ],
   "finished": []
