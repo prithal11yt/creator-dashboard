@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-31T14:00:00Z",
+  "last_updated": "2026-06-01T12:00:00Z",
   "talking": [
     {
       "brand": "Arcads",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Nathan asked for YouTube metrics on May 29 — sent over, awaiting next steps.",
+      "notes": "Media kit sent May 31; awaiting Nathan's response on next steps.",
       "date": "May 25, 2026"
     },
     {
@@ -14,7 +14,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Ali confirmed $500 works; Prithal shared channel audience details on May 31, awaiting next steps.",
+      "notes": "Ali confirmed $500 works; requested YouTube Studio screenshot on May 31, reply drafted.",
       "date": "May 30, 2026"
     },
     {
@@ -22,7 +22,7 @@
       "type": "Dedicated Video",
       "amount": 400,
       "status": "Negotiating",
-      "notes": "Rates shared via MCN rep; brand reviewing channel before confirming.",
+      "notes": "MCN rep judyy reviewing channel after rate confirmation; awaiting decision.",
       "date": "May 27, 2026"
     },
     {
@@ -30,8 +30,16 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Interested in YouTube promo for e-commerce learning app; contact shared, rates not yet discussed.",
+      "notes": "Kala reached out May 30; rates follow-up drafted, awaiting Kala's reply.",
       "date": "May 30, 2026"
+    },
+    {
+      "brand": "MuleRun",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Clara (AdsMarch) replied Jun 1 asking if $500 covers usage rights and feedback rounds; draft reply saved.",
+      "date": "Jun 1, 2026"
     }
   ],
   "active": [
@@ -72,7 +80,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Partnership agreement sent by Aakash Verma on May 28; Prithal to review and sign to finalize.",
+      "notes": "Partnership agreement sent by Aakash Verma on May 28; awaiting Prithal's signature to finalize.",
       "date": "May 28, 2026"
     }
   ],
