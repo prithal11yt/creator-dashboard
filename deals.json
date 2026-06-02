@@ -1,12 +1,20 @@
 {
-  "last_updated": "2026-06-01T12:00:00Z",
+  "last_updated": "2026-06-02T06:00:00Z",
   "talking": [
+    {
+      "brand": "MuleRun",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Clarified Jun 1 that $500 covers organic promotion only \u2014 no paid ads, whitelisting, or native reposts; awaiting Clara's decision.",
+      "date": "Jun 1, 2026"
+    },
     {
       "brand": "Arcads",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Media kit sent May 31; awaiting Nathan's response on next steps.",
+      "notes": "Nathan requested YouTube metrics on May 29; draft reply sent Jun 2 offering to share YouTube Studio screenshot.",
       "date": "May 25, 2026"
     },
     {
@@ -32,14 +40,6 @@
       "status": "Negotiating",
       "notes": "Kala reached out May 30; rates follow-up drafted, awaiting Kala's reply.",
       "date": "May 30, 2026"
-    },
-    {
-      "brand": "MuleRun",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Clara (AdsMarch) replied Jun 1 asking if $500 covers usage rights and feedback rounds; draft reply saved.",
-      "date": "Jun 1, 2026"
     }
   ],
   "active": [
@@ -80,7 +80,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Partnership agreement sent by Aakash Verma on May 28; awaiting Prithal's signature to finalize.",
+      "notes": "Partnership agreement sent by Aakash Verma on May 28; awaiting Prithal signature to finalize.",
       "date": "May 28, 2026"
     }
   ],
