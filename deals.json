@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-03T00:00:00Z",
+  "last_updated": "2026-06-04T15:45:00Z",
   "talking": [
     {
       "brand": "MuleRun",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Clarified Jun 1 that $500 covers organic promotion only \u2014 no paid ads, whitelisting, or native reposts; awaiting Clara's decision.",
+      "notes": "Clara asked clarifying questions on Jun 1; Prithal confirmed $500 covers organic promotion only (no paid ads/whitelisting); awaiting Clara's final decision.",
       "date": "Jun 1, 2026"
     },
     {
@@ -14,7 +14,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Nathan requested YouTube metrics on May 29; draft reply sent Jun 3 offering to share YouTube Studio screenshot.",
+      "notes": "Nathan requested YouTube metrics on May 29; Prithal shared channel overview Jun 3; awaiting Nathan's response.",
       "date": "May 25, 2026"
     },
     {
@@ -22,7 +22,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Ali confirmed $500 works; requested YouTube Studio screenshot on May 31; draft reply sent Jun 3.",
+      "notes": "Ali confirmed $500 works and requested YouTube Studio screenshot; Prithal shared channel info Jun 3; awaiting Ali's response.",
       "date": "May 30, 2026"
     },
     {
@@ -30,7 +30,7 @@
       "type": "Dedicated Video",
       "amount": 400,
       "status": "Negotiating",
-      "notes": "MCN rep judyy reviewing channel after rate confirmation; awaiting decision.",
+      "notes": "MCN rep reviewing channel after rate confirmation at $400; awaiting decision.",
       "date": "May 27, 2026"
     },
     {
@@ -38,7 +38,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Kala reached out May 30; Prithal shared contact number and asked to discuss details; awaiting Kala's reply.",
+      "notes": "Kala reached out May 30; Prithal shared contact number to discuss; awaiting Kala's reply.",
       "date": "May 30, 2026"
     },
     {
@@ -46,15 +46,15 @@
       "type": "Dedicated Video",
       "amount": 400,
       "status": "Negotiating",
-      "notes": "Sofia (Gift Boxes on Demand) countered at $200 on Jun 2; Prithal replied holding at $400 minimum; awaiting Sofia's decision.",
-      "date": "Jun 2, 2026"
+      "notes": "Price impasse: Prithal at $400 minimum, Sofia holding at $200 max (Jun 3); graceful close draft saved.",
+      "date": "Jun 3, 2026"
     },
     {
       "brand": "Modor",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Rachel countered with INR 14000 on Jun 2; Prithal replied asking Rachel to meet $500; awaiting response.",
+      "notes": "Rachel countered with INR 14000 on Jun 2; Prithal replied holding at $500; awaiting Rachel's decision.",
       "date": "Jun 2, 2026"
     },
     {
@@ -62,8 +62,24 @@
       "type": "Dedicated Video",
       "amount": 400,
       "status": "Negotiating",
-      "notes": "Emily (AI animation tool) replied Jun 1 asking for media kit; draft reply sent Jun 3 sharing channel overview.",
+      "notes": "Emily asked for media kit Jun 1; Prithal sent channel overview Jun 3; awaiting Emily's reply.",
       "date": "May 28, 2026"
+    },
+    {
+      "brand": "B12",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Dan (AI website builder for SMBs) replied Jun 4 asking for rates and channel stats; rates draft reply saved Jun 4.",
+      "date": "Jun 4, 2026"
+    },
+    {
+      "brand": "Kommunicate",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Started as affiliate outreach; Prithal redirected to fixed payment model; Aditi asked for discovery call; Prithal agreed and requested Calendly link (Jun 4).",
+      "date": "Jun 4, 2026"
     }
   ],
   "active": [
