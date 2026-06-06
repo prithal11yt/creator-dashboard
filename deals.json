@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T20:30:00Z",
+  "last_updated": "2026-06-06T10:00:00Z",
   "talking": [
     {
       "brand": "MuleRun",
@@ -54,7 +54,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Rachel raised offer to INR 18,000 (Jun 5); Prithal holding at $400 minimum; graceful close draft saved Jun 5.",
+      "notes": "Rachel raised offer to INR 18,000 (Jun 4); Prithal holding at $500 minimum; graceful close draft saved Jun 5.",
       "date": "Jun 5, 2026"
     },
     {
@@ -64,14 +64,6 @@
       "status": "Negotiating",
       "notes": "Emily asked for media kit Jun 1; Prithal sent channel overview Jun 3; awaiting Emily reply.",
       "date": "May 28, 2026"
-    },
-    {
-      "brand": "B12",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Dan (AI website builder for SMBs) replied Jun 4 asking about paid video; rates draft reply saved Jun 4.",
-      "date": "Jun 4, 2026"
     },
     {
       "brand": "Kommunicate",
@@ -86,7 +78,15 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Anton (CEO) reached out Jun 4 for AI agent video; Prithal sent rates Jun 4; Anton acknowledged and is reviewing formats internally (Jun 5).",
+      "notes": "Anton (CEO) reached out Jun 4 for AI agent video; Prithal sent rates Jun 4; Anton acknowledged and is reviewing formats internally (Jun 5); Prithal replied Jun 5 to await decision.",
+      "date": "Jun 5, 2026"
+    },
+    {
+      "brand": "OutSeekAI",
+      "type": "Dedicated Video",
+      "amount": 400,
+      "status": "Negotiating",
+      "notes": "Jenny reached out May 21 for AI tool collab; Prithal sent rates May 22 ($400 dedicated, $200 midroll/short); Jenny followed up Jun 5 asking about previous similar promotions; draft reply saved Jun 6.",
       "date": "Jun 5, 2026"
     }
   ],
