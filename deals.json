@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T10:00:00Z",
+  "last_updated": "2026-06-07T06:30:00Z",
   "talking": [
     {
       "brand": "MuleRun",
@@ -14,7 +14,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Nathan requested YouTube metrics on May 29; Prithal shared channel overview Jun 3; awaiting Nathan response.",
+      "notes": "Nathan requested YouTube metrics on May 29; Prithal sent media kit May 31; awaiting Nathan response.",
       "date": "May 25, 2026"
     },
     {
@@ -34,7 +34,7 @@
       "date": "May 27, 2026"
     },
     {
-      "brand": "SeekhoBecho",
+      "brand": "SeekhoBeecho",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
@@ -66,19 +66,19 @@
       "date": "May 28, 2026"
     },
     {
-      "brand": "Kommunicate",
+      "brand": "Kommunikate",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Aditi handed off to Manab Boruah (Jun 5); Prithal confirmed scheduling a discovery call via Calendly; meeting booked for Jun 8, 4pm IST.",
+      "notes": "Aditi handed off to Manab Boruah (Jun 5); discovery call via Calendly booked for Jun 8, 4pm IST.",
       "date": "Jun 5, 2026"
     },
     {
-      "brand": "Jet Admin",
+      "brand": "Jetdmin",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Anton (CEO) reached out Jun 4 for AI agent video; Prithal sent rates Jun 4; Anton acknowledged and is reviewing formats internally (Jun 5); Prithal replied Jun 5 to await decision.",
+      "notes": "Anton (CEO) reached out Jun 4 for AI agent video; Prithal sent rates Jun 4; Anton reviewing formats internally (Jun 5); awaiting format decision.",
       "date": "Jun 5, 2026"
     },
     {
@@ -86,7 +86,7 @@
       "type": "Dedicated Video",
       "amount": 400,
       "status": "Negotiating",
-      "notes": "Jenny reached out May 21 for AI tool collab; Prithal sent rates May 22 ($400 dedicated, $200 midroll/short); Jenny followed up Jun 5 asking about previous similar promotions; draft reply saved Jun 6.",
+      "notes": "Jenny reached out May 21 for AI tool collab; Prithal sent rates May 22; Jenny followed up Jun 5 asking about previous similar promotions; draft reply saved Jun 6.",
       "date": "Jun 5, 2026"
     }
   ],
@@ -116,7 +116,7 @@
       "date": "May 27, 2026"
     },
     {
-      "brand": "Alexendra",
+      "brand": "Alexandra",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
