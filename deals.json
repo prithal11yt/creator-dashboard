@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T06:30:00Z",
+  "last_updated": "2026-06-08T00:00:00Z",
   "talking": [
     {
       "brand": "MuleRun",
@@ -70,11 +70,11 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Aditi handed off to Manab Boruah (Jun 5); discovery call via Calendly booked for Jun 8, 4pm IST.",
-      "date": "Jun 5, 2026"
+      "notes": "Discovery call with Manab Boruah was scheduled for Jun 8 4pm IST but Prithal missed it; Manab emailed today asking to rebook; apology and rebook draft saved Jun 8.",
+      "date": "Jun 8, 2026"
     },
     {
-      "brand": "Jetdmin",
+      "brand": "JetAdmin",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
@@ -94,18 +94,18 @@
     {
       "brand": "YCloud",
       "type": "Dedicated Video",
-      "amount": 500,
+      "amount": 300,
       "status": "Confirmed",
-      "notes": "Deal confirmed, content pending delivery.",
-      "date": "May 2026"
+      "notes": "Deal confirmed at $300 (Apr 28); content pending delivery.",
+      "date": "Apr 28, 2026"
     },
     {
-      "brand": "Tiantian Liu",
+      "brand": "Tiantian Liu (MeDo)",
       "type": "Dedicated Video",
-      "amount": 500,
+      "amount": 300,
       "status": "Confirmed",
-      "notes": "Deal confirmed, content pending delivery.",
-      "date": "May 2026"
+      "notes": "Deal confirmed at $300 (May 3); brief sent by Tiantian on May 3; content pending delivery.",
+      "date": "May 3, 2026"
     },
     {
       "brand": "Suno",
@@ -128,7 +128,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Partnership agreement sent by Aakash Verma on May 28; awaiting Prithal signature to finalize.",
+      "notes": "Partnership agreement sent by Aakash Verma on May 28; Prithal reviewing — acknowledgment draft saved Jun 8; awaiting Prithal signature to finalize.",
       "date": "May 28, 2026"
     }
   ],
