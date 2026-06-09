@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-08T00:00:00Z",
+  "last_updated": "2026-06-09T00:00:00Z",
   "talking": [
     {
       "brand": "MuleRun",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Clara asked clarifying questions on Jun 1; Prithal confirmed $500 covers organic promotion only (no paid ads/whitelisting); awaiting Clara final decision.",
+      "notes": "Clara asked clarifying questions Jun 1; Prithal confirmed $500 covers organic promotion only (no paid ads/whitelisting); awaiting Clara final decision.",
       "date": "Jun 1, 2026"
     },
     {
@@ -14,7 +14,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Nathan requested YouTube metrics on May 29; Prithal sent media kit May 31; awaiting Nathan response.",
+      "notes": "Nathan requested YouTube metrics May 29; Prithal sent media kit May 31; awaiting Nathan response.",
       "date": "May 25, 2026"
     },
     {
@@ -22,7 +22,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Ali confirmed $500 works and requested YouTube Studio screenshot; Prithal shared channel info Jun 3; awaiting Ali response.",
+      "notes": "Ali confirmed $500 works and requested YouTube Studio screenshot; Prithal sent channel info Jun 3; follow-up draft saved Jun 9.",
       "date": "May 30, 2026"
     },
     {
@@ -54,8 +54,8 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Rachel raised offer to INR 18,000 (Jun 4); Prithal holding at $500 minimum; graceful close draft saved Jun 5.",
-      "date": "Jun 5, 2026"
+      "notes": "Rachel asked for channel metrics Jun 4; Prithal holding firm at $500; reply draft saved Jun 9.",
+      "date": "Jun 4, 2026"
     },
     {
       "brand": "Anijam",
@@ -70,7 +70,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Discovery call with Manab Boruah was scheduled for Jun 8 4pm IST but Prithal missed it; Manab emailed today asking to rebook; apology and rebook draft saved Jun 8.",
+      "notes": "Discovery call with Manab Boruah scheduled Jun 8 4pm IST but Prithal missed it; Manab asked to rebook; apology and rebook draft saved Jun 8.",
       "date": "Jun 8, 2026"
     },
     {
@@ -86,8 +86,16 @@
       "type": "Dedicated Video",
       "amount": 400,
       "status": "Negotiating",
-      "notes": "Jenny reached out May 21 for AI tool collab; Prithal sent rates May 22; Jenny followed up Jun 5 asking about previous similar promotions; draft reply saved Jun 6.",
+      "notes": "Jenny reached out May 21 for AI tool collab; Prithal sent rates May 22; Jenny followed up Jun 5 asking about previous promotions; draft reply saved Jun 6.",
       "date": "Jun 5, 2026"
+    },
+    {
+      "brand": "WP Amelia",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Zemyna in conversation since Apr; came back May 19 asking for YouTube metrics; draft reply Jun 9 with updated $500 rate.",
+      "date": "May 19, 2026"
     }
   ],
   "active": [
@@ -128,7 +136,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Partnership agreement sent by Aakash Verma on May 28; Prithal reviewing — acknowledgment draft saved Jun 8; awaiting Prithal signature to finalize.",
+      "notes": "Partnership agreement sent by Aakash Verma on May 28; acknowledgment draft saved Jun 8; awaiting Prithal signature to finalize.",
       "date": "May 28, 2026"
     }
   ],
