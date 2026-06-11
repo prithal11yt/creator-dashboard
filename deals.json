@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T13:37:58Z",
+  "last_updated": "2026-06-11T14:49:50Z",
   "talking": [
     {"brand": "MuleRun", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Clara asked clarifying questions Jun 1; Prithal confirmed $500 covers organic promotion only (no paid ads/whitelisting); awaiting Clara final decision.", "date": "Jun 1, 2026"},
     {"brand": "Arcads", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Nathan requested YouTube metrics May 29; Prithal sent media kit May 31; awaiting Nathan response.", "date": "May 25, 2026"},
@@ -14,7 +14,8 @@
     {"brand": "OutSeekAI", "type": "Dedicated Video", "amount": 400, "status": "Negotiating", "notes": "Jenny reached out May 21 for AI tool collab; Prithal sent rates May 22; Jenny followed up Jun 5 asking about previous promotions; draft reply saved Jun 6.", "date": "Jun 5, 2026"},
     {"brand": "WP Amelia", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Zemyna in conversation since Apr; came back May 19 asking for YouTube metrics; draft reply Jun 9 with updated $500 rate.", "date": "May 19, 2026"},
     {"brand": "CourseNJobs", "type": "Dedicated Video", "amount": 400, "status": "Negotiating", "notes": "Alex (CnJ agency) requested rates May 26; Prithal quoted $400 dedicated/$200 integration; Alex countered Jun 10 with $800 for 3 dedicated videos; Prithal countered at $1,200 for 3 ($400 each), draft saved Jun 10.", "date": "Jun 10, 2026"},
-    {"brand": "LumeFlow AI", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Rusty reached out Jun 4 for AI video/image platform collab; Prithal sent rate $500 Jun 8; Rusty said $500 too high for first collab Jun 10, asked for discount; Prithal asked for their counter-offer, awaiting reply.", "date": "Jun 10, 2026"}
+    {"brand": "LumeFlow AI", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Rusty reached out Jun 4 for AI video/image platform collab; Prithal sent rate $500 Jun 8; Rusty said $500 too high for first collab Jun 10, asked for discount; Prithal asked for their counter-offer, awaiting reply.", "date": "Jun 10, 2026"},
+    {"brand": "BrowserAct", "type": "Dedicated Video", "amount": 400, "status": "Negotiating", "notes": "BrowserAct team reached out Jun 11 for sponsored video about their AI browser-automation tool; Prithal sent rates ($500/$200/$200); BrowserAct countered at $100 (early-stage budget, framed as trial for long-term collab); Prithal held to fixed pricing and countered at $400, awaiting reply.", "date": "Jun 11, 2026"}
   ],
   "active": [
     {"brand": "YCloud", "type": "Dedicated Video", "amount": 300, "status": "Confirmed", "notes": "Deal confirmed at $300 (Apr 28); content pending delivery.", "date": "Apr 28, 2026"},
