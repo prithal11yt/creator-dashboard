@@ -1,28 +1,168 @@
 {
-  "last_updated": "2026-06-11T14:49:50Z",
+  "last_updated": "2026-06-12T13:38:36Z",
   "talking": [
-    {"brand": "MuleRun", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Clara asked clarifying questions Jun 1; Prithal confirmed $500 covers organic promotion only (no paid ads/whitelisting); awaiting Clara final decision.", "date": "Jun 1, 2026"},
-    {"brand": "Arcads", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Nathan requested YouTube metrics May 29; Prithal sent media kit May 31; awaiting Nathan response.", "date": "May 25, 2026"},
-    {"brand": "Nexvora Media", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Ali confirmed $500 works and requested YouTube Studio screenshot; Prithal sent channel info Jun 3; follow-up draft saved Jun 9.", "date": "May 30, 2026"},
-    {"brand": "OiiOii.AI", "type": "Dedicated Video", "amount": 400, "status": "Negotiating", "notes": "MCN rep reviewing channel after rate confirmation at $400; awaiting decision.", "date": "May 27, 2026"},
-    {"brand": "SeekhoBeecho", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Kala reached out May 30; Prithal shared contact number to discuss; awaiting Kala reply.", "date": "May 30, 2026"},
-    {"brand": "Printonic", "type": "Dedicated Video", "amount": 400, "status": "Negotiating", "notes": "Price impasse: Prithal at $400 minimum, Sofia holding at $200 max (Jun 3); graceful close draft saved.", "date": "Jun 3, 2026"},
-    {"brand": "Modor", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Rachel asked for channel metrics Jun 4; Prithal holding firm at $500; reply draft saved Jun 9.", "date": "Jun 4, 2026"},
-    {"brand": "Anijam", "type": "Dedicated Video", "amount": 400, "status": "Negotiating", "notes": "Emily asked for media kit Jun 1; Prithal sent channel overview Jun 3; awaiting Emily reply.", "date": "May 28, 2026"},
-    {"brand": "Kommunikate", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Discovery call with Manab Boruah scheduled Jun 8 4pm IST but Prithal missed it; Manab asked to rebook; apology and rebook draft saved Jun 8.", "date": "Jun 8, 2026"},
-    {"brand": "JetAdmin", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Anton (CEO) reached out Jun 4 for AI agent video; Prithal sent rates Jun 4; Anton reviewing formats internally (Jun 5); awaiting format decision.", "date": "Jun 5, 2026"},
-    {"brand": "OutSeekAI", "type": "Dedicated Video", "amount": 400, "status": "Negotiating", "notes": "Jenny reached out May 21 for AI tool collab; Prithal sent rates May 22; Jenny followed up Jun 5 asking about previous promotions; draft reply saved Jun 6.", "date": "Jun 5, 2026"},
-    {"brand": "WP Amelia", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Zemyna in conversation since Apr; came back May 19 asking for YouTube metrics; draft reply Jun 9 with updated $500 rate.", "date": "May 19, 2026"},
-    {"brand": "CourseNJobs", "type": "Dedicated Video", "amount": 400, "status": "Negotiating", "notes": "Alex (CnJ agency) requested rates May 26; Prithal quoted $400 dedicated/$200 integration; Alex countered Jun 10 with $800 for 3 dedicated videos; Prithal countered at $1,200 for 3 ($400 each), draft saved Jun 10.", "date": "Jun 10, 2026"},
-    {"brand": "LumeFlow AI", "type": "Dedicated Video", "amount": 500, "status": "Negotiating", "notes": "Rusty reached out Jun 4 for AI video/image platform collab; Prithal sent rate $500 Jun 8; Rusty said $500 too high for first collab Jun 10, asked for discount; Prithal asked for their counter-offer, awaiting reply.", "date": "Jun 10, 2026"},
-    {"brand": "BrowserAct", "type": "Dedicated Video", "amount": 400, "status": "Negotiating", "notes": "BrowserAct team reached out Jun 11 for sponsored video about their AI browser-automation tool; Prithal sent rates ($500/$200/$200); BrowserAct countered at $100 (early-stage budget, framed as trial for long-term collab); Prithal held to fixed pricing and countered at $400, awaiting reply.", "date": "Jun 11, 2026"}
+    {
+      "brand": "MuleRun",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Clara asked clarifying questions Jun 1; Prithal confirmed $500 covers organic promotion only (no paid ads/whitelisting); awaiting Clara final decision.",
+      "date": "Jun 1, 2026"
+    },
+    {
+      "brand": "Arcads",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Nathan requested YouTube metrics May 29; Prithal sent media kit May 31; awaiting Nathan response.",
+      "date": "May 25, 2026"
+    },
+    {
+      "brand": "Nexvora Media",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Ali confirmed $500 works and requested YouTube Studio screenshot; Prithal sent channel info Jun 3; follow-up draft saved Jun 9.",
+      "date": "May 30, 2026"
+    },
+    {
+      "brand": "OiiOii.AI",
+      "type": "Dedicated Video",
+      "amount": 400,
+      "status": "Negotiating",
+      "notes": "MCN rep reviewing channel after rate confirmation at $400; awaiting decision.",
+      "date": "May 27, 2026"
+    },
+    {
+      "brand": "SeekhoBeecho",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Kala reached out May 30; Prithal shared contact number to discuss; awaiting Kala reply.",
+      "date": "May 30, 2026"
+    },
+    {
+      "brand": "Printonic",
+      "type": "Dedicated Video",
+      "amount": 400,
+      "status": "Negotiating",
+      "notes": "Price impasse: Prithal at $400 minimum, Sofia holding at $200 max (Jun 3); graceful close draft saved.",
+      "date": "Jun 3, 2026"
+    },
+    {
+      "brand": "Modor",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Rachel asked for channel metrics Jun 4; Prithal holding firm at $500; reply draft saved Jun 9.",
+      "date": "Jun 4, 2026"
+    },
+    {
+      "brand": "Anijam",
+      "type": "Dedicated Video",
+      "amount": 400,
+      "status": "Negotiating",
+      "notes": "Emily asked for media kit Jun 1; Prithal sent channel overview Jun 3; awaiting Emily reply.",
+      "date": "May 28, 2026"
+    },
+    {
+      "brand": "Kommunikate",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Aditi (Kommunicate Affiliate & Influencer Partnerships) followed up Jun 11 with paid video + 20% affiliate commission offer; Prithal said open to fixed-rate discussion, declined recurring commission; Aditi sent Calendly link; discovery call with Manab Boruah rebooked for Jun 12, 1-2pm IST.",
+      "date": "Jun 12, 2026"
+    },
+    {
+      "brand": "JetAdmin",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Anton (CEO) reached out Jun 4 for AI agent video; Prithal sent rates Jun 4; Anton reviewing formats internally (Jun 5); awaiting format decision.",
+      "date": "Jun 5, 2026"
+    },
+    {
+      "brand": "OutSeekAI",
+      "type": "Dedicated Video",
+      "amount": 400,
+      "status": "Negotiating",
+      "notes": "Jenny reached out May 21 for AI tool collab; Prithal sent rates May 22; Jenny followed up Jun 5 asking about previous promotions; draft reply saved Jun 6.",
+      "date": "Jun 5, 2026"
+    },
+    {
+      "brand": "WP Amelia",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Zemyna in conversation since Apr; came back May 19 asking for YouTube metrics; draft reply Jun 9 with updated $500 rate.",
+      "date": "May 19, 2026"
+    },
+    {
+      "brand": "LumeFlow AI",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Rusty reached out Jun 4 for AI video/image platform collab; Prithal sent rate $500 Jun 8; Rusty said too high for first collab Jun 10, asked for discount; Prithal asked for their counter Jun 10; Rusty proposed hybrid model Jun 12 ($100 base + performance bonuses up to $1,200, or 30% affiliate commission); Prithal declined performance/affiliate model and countered with discounted fixed rate $400 for first collab, draft saved Jun 12.",
+      "date": "Jun 12, 2026"
+    },
+    {
+      "brand": "BrowserAct",
+      "type": "Dedicated Video",
+      "amount": 400,
+      "status": "Negotiating",
+      "notes": "BrowserAct team reached out Jun 11 for sponsored video about their AI browser-automation tool; Prithal sent rates ($500/$200/$200); BrowserAct countered at $100 (early-stage budget, framed as trial for long-term collab); Prithal held to fixed pricing and countered at $400, awaiting reply.",
+      "date": "Jun 11, 2026"
+    }
   ],
   "active": [
-    {"brand": "YCloud", "type": "Dedicated Video", "amount": 300, "status": "Confirmed", "notes": "Deal confirmed at $300 (Apr 28); content pending delivery.", "date": "Apr 28, 2026"},
-    {"brand": "Tiantian Liu (MeDo)", "type": "Dedicated Video", "amount": 300, "status": "Confirmed", "notes": "Deal confirmed at $300 (May 3); brief sent by Tiantian on May 3; content pending delivery.", "date": "May 3, 2026"},
-    {"brand": "Suno", "type": "Dedicated Video", "amount": 500, "status": "Confirmed", "notes": "DocuSign agreement completed by all parties on May 27; content pending delivery.", "date": "May 27, 2026"},
-    {"brand": "Alexandra", "type": "Dedicated Video", "amount": 500, "status": "Confirmed", "notes": "Deal confirmed, content pending delivery.", "date": "May 2026"},
-    {"brand": "aify.media", "type": "Dedicated Video", "amount": 500, "status": "Confirmed", "notes": "Partnership agreement sent by Aakash Verma on May 28; acknowledgment draft saved Jun 8; awaiting Prithal signature to finalize.", "date": "May 28, 2026"}
+    {
+      "brand": "YCloud",
+      "type": "Dedicated Video",
+      "amount": 300,
+      "status": "Confirmed",
+      "notes": "Deal confirmed at $300 (Apr 28); content pending delivery.",
+      "date": "Apr 28, 2026"
+    },
+    {
+      "brand": "Tiantian Liu (MeDo)",
+      "type": "Dedicated Video",
+      "amount": 300,
+      "status": "Confirmed",
+      "notes": "Deal confirmed at $300 (May 3); brief sent by Tiantian on May 3; content pending delivery.",
+      "date": "May 3, 2026"
+    },
+    {
+      "brand": "Suno",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Confirmed",
+      "notes": "DocuSign agreement completed by all parties on May 27; content pending delivery.",
+      "date": "May 27, 2026"
+    },
+    {
+      "brand": "Alexandra",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Confirmed",
+      "notes": "Deal confirmed, content pending delivery.",
+      "date": "May 2026"
+    },
+    {
+      "brand": "aify.media",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Confirmed",
+      "notes": "Partnership agreement sent by Aakash Verma on May 28; acknowledgment draft saved Jun 8; awaiting Prithal signature to finalize.",
+      "date": "May 28, 2026"
+    },
+    {
+      "brand": "CourseNJobs",
+      "type": "Dedicated Video",
+      "amount": 1000,
+      "status": "Confirmed",
+      "notes": "Agreed $1,000 total for 3 dedicated videos (Ed-Tech/Coursera campaign via CnJ agency); Alex sent campaign brief Jun 11 with course options (Google AI courses); draft reply sent confirming India-based, USD payment; agreement and brief pending, content not yet delivered.",
+      "date": "Jun 11, 2026"
+    }
   ],
   "finished": []
 }
