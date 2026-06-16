@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T13:38:05Z",
+  "last_updated": "2026-06-16T13:00:00Z",
   "talking": [
     {
       "brand": "MuleRun",
@@ -8,14 +8,6 @@
       "status": "Negotiating",
       "notes": "Clara asked clarifying questions Jun 1; Prithal confirmed $500 covers organic promotion only (no paid ads/whitelisting); awaiting Clara final decision.",
       "date": "Jun 1, 2026"
-    },
-    {
-      "brand": "Arcads",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Nathan requested YouTube metrics May 29; Prithal sent media kit May 31; awaiting Nathan response.",
-      "date": "May 25, 2026"
     },
     {
       "brand": "Nexvora Media",
@@ -112,6 +104,22 @@
       "status": "Negotiating",
       "notes": "BrowserAct team reached out Jun 11 for sponsored video about their AI browser-automation tool; Prithal sent rates ($500/$200/$200); BrowserAct countered at $100 (early-stage budget, framed as trial for long-term collab); Prithal held to fixed pricing and countered at $400, awaiting reply.",
       "date": "Jun 11, 2026"
+    },
+    {
+      "brand": "Bloome",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Chessunyan (User Growth) reached out Jun 15 for review/feature video of AI-native team collaboration platform; Prithal said open to collabs and asked for details Jun 15; Chessunyan shared product info and asked for pricing Jun 16; draft reply with rates saved Jun 16.",
+      "date": "Jun 16, 2026"
+    },
+    {
+      "brand": "Hostinger",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Prithal reached out Jun 15; Mauricio (Partnership Manager) replied Jun 15 confirming strong fit, suggested VPS/Node.js Hosting angles; offered 2 videos for $800 + 40% commission; Prithal countered with flat-fee $500/video ($1,000 for 2), no commission model, draft reply saved Jun 16.",
+      "date": "Jun 15, 2026"
     }
   ],
   "active": [
@@ -160,7 +168,7 @@
       "type": "Dedicated Video",
       "amount": 1000,
       "status": "Confirmed",
-      "notes": "Agreed $1,000 total for 3 dedicated videos (Ed-Tech/Coursera campaign via CnJ agency); Alex sent campaign brief Jun 11 with course options (Google AI courses); draft reply sent confirming India-based, USD payment; agreement and brief pending, content not yet delivered.",
+      "notes": "Agreed $1,000 total for 3 dedicated videos (Ed-Tech/Coursera campaign via CnJ agency); Alex sent campaign brief Jun 11 with course options (Google AI courses); CourseNJobs followed up Jun 15 asking for updates; draft reply saved Jun 16 confirming India-based, USD payment, ready for formal agreement.",
       "date": "Jun 11, 2026"
     }
   ],
