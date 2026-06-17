@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T13:00:00Z",
+  "last_updated": "2026-06-17T13:35:54Z",
   "talking": [
     {
       "brand": "MuleRun",
@@ -123,22 +123,6 @@
     }
   ],
   "active": [
-    {
-      "brand": "YCloud",
-      "type": "Dedicated Video",
-      "amount": 300,
-      "status": "Confirmed",
-      "notes": "Deal confirmed at $300 (Apr 28); content pending delivery.",
-      "date": "Apr 28, 2026"
-    },
-    {
-      "brand": "Tiantian Liu (MeDo)",
-      "type": "Dedicated Video",
-      "amount": 300,
-      "status": "Confirmed",
-      "notes": "Deal confirmed at $300 (May 3); brief sent by Tiantian on May 3; content pending delivery.",
-      "date": "May 3, 2026"
-    },
     {
       "brand": "Suno",
       "type": "Dedicated Video",
