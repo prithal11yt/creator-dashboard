@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T13:35:54Z",
+  "last_updated": "2026-06-18T13:37:21Z",
   "talking": [
     {
       "brand": "MuleRun",
@@ -62,7 +62,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Aditi (Kommunicate Affiliate & Influencer Partnerships) followed up Jun 11 with paid video + 20% affiliate commission offer; Prithal said open to fixed-rate discussion, declined recurring commission; Aditi sent Calendly link; discovery call with Manab Boruah rebooked for Jun 12, 1-2pm IST.",
+      "notes": "Aditi (Komunicate Affiliate & Influencer Partnerships) followed up Jun 11 with paid video + 20% affiliate commission offer; Prithal said open to fixed-rate discussion, declined recurring commission; Aditi sent Calendly link; discovery call with Manab Boruah rebooked for Jun 12, 1-2pm IST.",
       "date": "Jun 12, 2026"
     },
     {
@@ -112,14 +112,6 @@
       "status": "Negotiating",
       "notes": "Chessunyan (User Growth) reached out Jun 15 for review/feature video of AI-native team collaboration platform; Prithal said open to collabs and asked for details Jun 15; Chessunyan shared product info and asked for pricing Jun 16; draft reply with rates saved Jun 16.",
       "date": "Jun 16, 2026"
-    },
-    {
-      "brand": "Hostinger",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Prithal reached out Jun 15; Mauricio (Partnership Manager) replied Jun 15 confirming strong fit, suggested VPS/Node.js Hosting angles; offered 2 videos for $800 + 40% commission; Prithal countered with flat-fee $500/video ($1,000 for 2), no commission model, draft reply saved Jun 16.",
-      "date": "Jun 15, 2026"
     }
   ],
   "active": [
@@ -154,6 +146,14 @@
       "status": "Confirmed",
       "notes": "Agreed $1,000 total for 3 dedicated videos (Ed-Tech/Coursera campaign via CnJ agency); Alex sent campaign brief Jun 11 with course options (Google AI courses); CourseNJobs followed up Jun 15 asking for updates; draft reply saved Jun 16 confirming India-based, USD payment, ready for formal agreement.",
       "date": "Jun 11, 2026"
+    },
+    {
+      "brand": "Hostinger",
+      "type": "Dedicated Video",
+      "amount": 800,
+      "status": "Confirmed",
+      "notes": "Mauricio (Partnership Manager) proposed pilot of 2 videos (VPS/Node.js Hosting angles) for $800 total + 40% commission on generated sales Jun 15; Prithal accepted Jun 18, awaiting product access/tracking link/coupon and campaign requirements. NOTE: same day, Prithal also separately emailed long-standing Hostinger contact Shikha Mehta (existing recurring content partnership, ongoing since Jul 2025) flagging the duplicate/overlapping outreach and asking her to match the $400/video rate; Shikha replied Jun 18 saying she'll check internally on both the account-manager overlap and a possible fee increase. Two concurrent Hostinger threads need reconciling.",
+      "date": "Jun 18, 2026"
     }
   ],
   "finished": []
