@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T00:00:00Z",
+  "last_updated": "2026-06-22T18:00:00Z",
   "talking": [
     {
       "brand": "MuleRun",
@@ -82,14 +82,6 @@
       "date": "Jun 5, 2026"
     },
     {
-      "brand": "WP Amelia",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Zemyna in conversation since Apr; came back May 19 asking for YouTube metrics; draft reply Jun 9 with updated $500 rate.",
-      "date": "May 19, 2026"
-    },
-    {
       "brand": "LumeFlow AI",
       "type": "Dedicated Video",
       "amount": 500,
@@ -126,8 +118,8 @@
       "type": "Dedicated Video",
       "amount": 400,
       "status": "Negotiating",
-      "notes": "Logan Mitchell (Kolect) reached out Jun 18 with collab invite for Trooly (AI user-insight platform); Prithal quoted $400 Jun 20; Logan followed up Jun 20 with full scope (1-month ad boost, 1-year no-takedown commitment, Jun 30 publish deadline) and asked if $400 is firm; Prithal confirmed $400 firm and requested brief/access by early next week to hit the deadline.",
-      "date": "Jun 20, 2026"
+      "notes": "Logan Mitchell (Kolect) reached out Jun 18 with collab invite for Trooly (AI user-insight platform); Prithal quoted $400 Jun 20; Logan followed up Jun 20 with full scope (1-month ad boost, 1-year no-takedown commitment, Jun 30 publish deadline) and asked if $400 is firm; Logan followed up again Jun 22 circling back on the rate; Prithal replied confirming $400 firm and requesting brief/access by early next week to hit the deadline.",
+      "date": "Jun 22, 2026"
     },
     {
       "brand": "Hostinger",
