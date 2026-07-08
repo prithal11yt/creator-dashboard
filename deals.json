@@ -1,92 +1,20 @@
 {
-  "last_updated": "2026-06-22T18:00:00Z",
+  "last_updated": "2026-07-08T10:30:00Z",
   "talking": [
-    {
-      "brand": "MuleRun",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Clara asked clarifying questions Jun 1; Prithal confirmed $500 covers organic promotion only (no paid ads/whitelisting); awaiting Clara final decision.",
-      "date": "Jun 1, 2026"
-    },
     {
       "brand": "Nexvora Media",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
       "notes": "Ali confirmed $500 works and requested YouTube Studio screenshot; Prithal sent channel info Jun 3; follow-up draft saved Jun 9.",
-      "date": "May 30, 2026"
-    },
-    {
-      "brand": "OiiOii.AI",
-      "type": "Dedicated Video",
-      "amount": 400,
-      "status": "Negotiating",
-      "notes": "MCN rep reviewing channel after rate confirmation at $400; awaiting decision.",
-      "date": "May 27, 2026"
-    },
-    {
-      "brand": "SeekhoBeecho",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Kala reached out May 30; Prithal shared contact number to discuss; awaiting Kala reply.",
-      "date": "May 30, 2026"
-    },
-    {
-      "brand": "Printonic",
-      "type": "Dedicated Video",
-      "amount": 400,
-      "status": "Negotiating",
-      "notes": "Price impasse: Prithal at $400 minimum, Sofia holding at $200 max (Jun 3); graceful close draft saved.",
-      "date": "Jun 3, 2026"
-    },
-    {
-      "brand": "Modor",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Rachel asked for channel metrics Jun 4; Prithal holding firm at $500; reply draft saved Jun 9.",
-      "date": "Jun 4, 2026"
-    },
-    {
-      "brand": "Anijam",
-      "type": "Dedicated Video",
-      "amount": 400,
-      "status": "Negotiating",
-      "notes": "Emily asked for media kit Jun 1; Prithal sent channel overview Jun 3; awaiting Emily reply.",
-      "date": "May 28, 2026"
-    },
-    {
-      "brand": "Kommunikate",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Aditi (Komunicate Affiliate & Influencer Partnerships) followed up Jun 11 with paid video + 20% affiliate commission offer; Prithal said open to fixed-rate discussion, declined recurring commission; Aditi sent Calendly link; discovery call with Manab Boruah rebooked for Jun 12, 1-2pm IST.",
-      "date": "Jun 12, 2026"
-    },
-    {
-      "brand": "JetAdmin",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Anton (CEO) reached out Jun 4 for AI agent video; Prithal sent rates Jun 4; Anton reviewing formats internally (Jun 5); awaiting format decision.",
-      "date": "Jun 5, 2026"
-    },
-    {
-      "brand": "OutSeekAI",
-      "type": "Dedicated Video",
-      "amount": 400,
-      "status": "Negotiating",
-      "notes": "Jenny reached out May 21 for AI tool collab; Prithal sent rates May 22; Jenny followed up Jun 5 asking about previous promotions; draft reply saved Jun 6.",
-      "date": "Jun 5, 2026"
+      "date": "Jun 9, 2026"
     },
     {
       "brand": "LumeFlow AI",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Rusty reached out Jun 4 for AI video/image platform collab; Prithal sent rate $500 Jun 8; Rusty said too high for first collab Jun 10, asked for discount; Prithal asked for their counter Jun 10; Rusty proposed hybrid model Jun 12 ($100 base + performance bonuses up to $1,200, or 30% affiliate commission); Prithal declined performance/affiliate model and countered with discounted fixed rate $400 for first collab, draft saved Jun 12.",
+      "notes": "Rusty proposed hybrid model Jun 12 ($100 base + performance bonuses); Prithal declined and countered with $400 discounted fixed rate for first collab; draft saved Jun 12, awaiting reply.",
       "date": "Jun 12, 2026"
     },
     {
@@ -94,7 +22,7 @@
       "type": "Dedicated Video",
       "amount": 400,
       "status": "Negotiating",
-      "notes": "BrowserAct team reached out Jun 11 for sponsored video about their AI browser-automation tool; Prithal sent rates ($500/$200/$200); BrowserAct countered at $100 (early-stage budget, framed as trial for long-term collab); Prithal held to fixed pricing and countered at $400, awaiting reply.",
+      "notes": "BrowserAct countered at $100 (early-stage budget); Prithal held to fixed pricing and countered at $400, awaiting reply.",
       "date": "Jun 11, 2026"
     },
     {
@@ -102,7 +30,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Chessunyan (User Growth) reached out Jun 15 for review/feature video of AI-native team collaboration platform; Prithal said open to collabs and asked for details Jun 15; Chessunyan shared product info and asked for pricing Jun 16; Prithal sent rates Jun 18, awaiting reply.",
+      "notes": "Chessunyan asked for pricing Jun 16; Prithal sent rates Jun 18, awaiting reply.",
       "date": "Jun 18, 2026"
     },
     {
@@ -110,7 +38,7 @@
       "type": "Dedicated Video",
       "amount": 400,
       "status": "Negotiating",
-      "notes": "Hiba (freelance broker, 20% commission on closed deals, no upfront cost) reached out Jun 18; Prithal sent rates Jun 20; Hiba confirmed rates Jun 21 and asked for audience demographics/excluded categories before pitching specific brands; Prithal replied with audience info and avoid-list same day.",
+      "notes": "Hiba (freelance broker) confirmed rates Jun 21 and asked for audience demographics; Prithal replied with audience info same day; awaiting brand pitch.",
       "date": "Jun 21, 2026"
     },
     {
@@ -118,7 +46,7 @@
       "type": "Dedicated Video",
       "amount": 400,
       "status": "Negotiating",
-      "notes": "Logan Mitchell (Kolect) reached out Jun 18 with collab invite for Trooly (AI user-insight platform); Prithal quoted $400 Jun 20; Logan followed up Jun 20 with full scope (1-month ad boost, 1-year no-takedown commitment, Jun 30 publish deadline) and asked if $400 is firm; Logan followed up again Jun 22 circling back on the rate; Prithal replied confirming $400 firm and requesting brief/access by early next week to hit the deadline.",
+      "notes": "Logan circled back Jun 22; Prithal confirmed $400 firm and requested brief by early next week; Jun 30 publish deadline was discussed.",
       "date": "Jun 22, 2026"
     },
     {
@@ -126,8 +54,16 @@
       "type": "Dedicated Video",
       "amount": 800,
       "status": "Negotiating",
-      "notes": "Mauricio (Partnership Manager) had proposed pilot of 2 videos for $800 total + 40% commission, accepted by Prithal Jun 18; same day Mauricio discovered Prithal already has a long-standing recurring partnership with Shikha Mehta and withdrew, redirecting to her to avoid duplicate/conflicting terms; separately Prithal had asked Shikha to match the $400/video rate, and Shikha replied Jun 18 she'd check internally on the account overlap and a possible fee increase; no terms confirmed yet, awaiting Shikha.",
+      "notes": "Shikha Mehta checking internally on account overlap and possible fee increase to match $400/video; no terms confirmed, awaiting Shikha.",
       "date": "Jun 18, 2026"
+    },
+    {
+      "brand": "TapVid (SigmaZ AI)",
+      "type": "Midroll Integration",
+      "amount": 200,
+      "status": "Negotiating",
+      "notes": "Maylee (KOL Manager) expressed interest in Short or Midroll; Prithal sent YouTube Analytics screenshot Jul 7; awaiting audience fit confirmation and brief from Maylee.",
+      "date": "Jul 7, 2026"
     }
   ],
   "active": [
@@ -152,7 +88,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Partnership agreement sent by Aakash Verma on May 28; acknowledgment draft saved Jun 8; awaiting Prithal signature to finalize.",
+      "notes": "Partnership agreement sent by Aakash Verma on May 28; awaiting Prithal signature to finalize.",
       "date": "May 28, 2026"
     },
     {
@@ -160,8 +96,24 @@
       "type": "Dedicated Video",
       "amount": 1000,
       "status": "Confirmed",
-      "notes": "Agreed $1,000 total for 3 dedicated videos (Ed-Tech/Coursera campaign via CnJ agency); Alex sent campaign brief Jun 11 with course options (Google AI courses); CourseNJobs followed up Jun 15 asking for updates; draft reply saved Jun 16 confirming India-based, USD payment, ready for formal agreement.",
+      "notes": "Agreed $1,000 total for 3 dedicated videos (Ed-Tech/Coursera campaign via CnJ agency); campaign brief received Jun 11; India-based audience confirmed, USD payment.",
       "date": "Jun 11, 2026"
+    },
+    {
+      "brand": "LivePlan",
+      "type": "Dedicated Video",
+      "amount": 400,
+      "status": "Confirmed",
+      "notes": "Trystan (PaloAlto) agreed $400 for Dedicated Video on Idea Validator feature Jun 24; creator agreement eSigned Jul 6; tool access provided; content pending delivery.",
+      "date": "Jul 6, 2026"
+    },
+    {
+      "brand": "Contabo",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Confirmed",
+      "notes": "Rate agreed at $500 with Rajani Jul 6; Daniel Gasperowicz sent contract template Jul 8 for review; 50/50 payment split; content brief to follow after contract signing.",
+      "date": "Jul 8, 2026"
     }
   ],
   "finished": []
