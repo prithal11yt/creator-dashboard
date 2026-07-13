@@ -1,37 +1,13 @@
 {
-  "last_updated": "2026-07-08T10:30:00Z",
+  "last_updated": "2026-07-13T10:30:00Z",
   "talking": [
     {
-      "brand": "Nexvora Media",
-      "type": "Dedicated Video",
-      "amount": 500,
+      "brand": "TapVid (SigmaZ AI)",
+      "type": "Midroll Integration",
+      "amount": 200,
       "status": "Negotiating",
-      "notes": "Ali confirmed $500 works and requested YouTube Studio screenshot; Prithal sent channel info Jun 3; follow-up draft saved Jun 9.",
-      "date": "Jun 9, 2026"
-    },
-    {
-      "brand": "LumeFlow AI",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Rusty proposed hybrid model Jun 12 ($100 base + performance bonuses); Prithal declined and countered with $400 discounted fixed rate for first collab; draft saved Jun 12, awaiting reply.",
-      "date": "Jun 12, 2026"
-    },
-    {
-      "brand": "BrowserAct",
-      "type": "Dedicated Video",
-      "amount": 400,
-      "status": "Negotiating",
-      "notes": "BrowserAct countered at $100 (early-stage budget); Prithal held to fixed pricing and countered at $400, awaiting reply.",
-      "date": "Jun 11, 2026"
-    },
-    {
-      "brand": "Bloome",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Chessunyan asked for pricing Jun 16; Prithal sent rates Jun 18, awaiting reply.",
-      "date": "Jun 18, 2026"
+      "notes": "Maylee (KOL Manager) expressed interest in Short or Midroll; Prithal sent YouTube Analytics screenshot Jul 7; awaiting audience fit confirmation and brief from Maylee.",
+      "date": "Jul 7, 2026"
     },
     {
       "brand": "Nordigenix",
@@ -40,30 +16,6 @@
       "status": "Negotiating",
       "notes": "Hiba (freelance broker) confirmed rates Jun 21 and asked for audience demographics; Prithal replied with audience info same day; awaiting brand pitch.",
       "date": "Jun 21, 2026"
-    },
-    {
-      "brand": "Kolect / Trooly",
-      "type": "Dedicated Video",
-      "amount": 400,
-      "status": "Negotiating",
-      "notes": "Logan circled back Jun 22; Prithal confirmed $400 firm and requested brief by early next week; Jun 30 publish deadline was discussed.",
-      "date": "Jun 22, 2026"
-    },
-    {
-      "brand": "Hostinger",
-      "type": "Dedicated Video",
-      "amount": 800,
-      "status": "Negotiating",
-      "notes": "Shikha Mehta checking internally on account overlap and possible fee increase to match $400/video; no terms confirmed, awaiting Shikha.",
-      "date": "Jun 18, 2026"
-    },
-    {
-      "brand": "TapVid (SigmaZ AI)",
-      "type": "Midroll Integration",
-      "amount": 200,
-      "status": "Negotiating",
-      "notes": "Maylee (KOL Manager) expressed interest in Short or Midroll; Prithal sent YouTube Analytics screenshot Jul 7; awaiting audience fit confirmation and brief from Maylee.",
-      "date": "Jul 7, 2026"
     }
   ],
   "active": [
@@ -84,20 +36,12 @@
       "date": "May 2026"
     },
     {
-      "brand": "aify.media",
-      "type": "Dedicated Video",
+      "brand": "CourseNJobs",
+      "type": "Midroll Integration",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Partnership agreement sent by Aakash Verma on May 28; awaiting Prithal signature to finalize.",
-      "date": "May 28, 2026"
-    },
-    {
-      "brand": "CourseNJobs",
-      "type": "Dedicated Video",
-      "amount": 1000,
-      "status": "Confirmed",
-      "notes": "Agreed $1,000 total for 3 dedicated videos (Ed-Tech/Coursera campaign via CnJ agency); campaign brief received Jun 11; India-based audience confirmed, USD payment.",
-      "date": "Jun 11, 2026"
+      "notes": "3x midroll integrations for Google AI Professional Certificate (Coursera); scripts approved Jul 12; Alex asked for core content Jul 12-13; tracking link to be provided before going live.",
+      "date": "Jun 23, 2026"
     },
     {
       "brand": "LivePlan",
@@ -112,7 +56,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Rate agreed at $500 with Rajani Jul 6; Daniel Gasperowicz sent contract template Jul 8 for review; 50/50 payment split; content brief to follow after contract signing.",
+      "notes": "Rate agreed at $500 with Rajani Jul 1; contract template sent by Daniel Jul 8; follow-up received Jul 13; 50/50 payment split; awaiting contract signature.",
       "date": "Jul 8, 2026"
     }
   ],
