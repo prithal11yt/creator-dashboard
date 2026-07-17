@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T10:00:00Z",
+  "last_updated": "2026-07-17T08:00:00Z",
   "talking": [
     {
       "brand": "TapVid (SigmaZ AI)",
@@ -14,24 +14,16 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Hiba (freelance broker) asked for audience demographics Jun 21; Prithal replied same day; no response in 25 days — within 30-day window.",
+      "notes": "Hiba (freelance broker) asked for audience demographics Jun 21; Prithal replied same day; no response in 26 days — within 30-day window.",
       "date": "Jun 21, 2026"
     },
     {
       "brand": "MilesWeb",
       "type": "Dedicated Video",
-      "amount": 0,
+      "amount": 500,
       "status": "Negotiating",
-      "notes": "Nisha (Outreach Specialist) reached out Jul 14; Prithal sent rates Jul 15; Nisha replied asking if pricing is negotiable for long-term multi-video deal — draft reply saved.",
+      "notes": "Nisha (Outreach Specialist) reached out Jul 14; Prithal sent rates Jul 15; Nisha replied asking if pricing is negotiable for long-term multi-video deal — draft reply saved Jul 17.",
       "date": "Jul 15, 2026"
-    },
-    {
-      "brand": "Tenorshare (HitPaw)",
-      "type": "Midroll Integration",
-      "amount": 200,
-      "status": "Negotiating",
-      "notes": "Lois Yang (Marketing) wants link placement ($200) in specific existing video; confirmed interest Jul 16 — draft reply saved asking for URL and payment details.",
-      "date": "Jul 16, 2026"
     }
   ],
   "active": [
