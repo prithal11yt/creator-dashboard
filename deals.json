@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-07-17T08:00:00Z",
+  "last_updated": "2026-07-18T08:30:00Z",
   "talking": [
     {
       "brand": "TapVid (SigmaZ AI)",
       "type": "Midroll Integration",
-      "amount": 200,
+      "amount": 300,
       "status": "Negotiating",
-      "notes": "Maylee (KOL Manager) interested in Short or Midroll at $300; Prithal sent YouTube Analytics screenshot Jul 7 as requested; awaiting audience fit confirmation and brief.",
+      "notes": "Maylee (KOL Manager) expressed interest in Short or Midroll at $300; Prithal sent YouTube Analytics screenshot Jul 7 as requested; awaiting audience fit confirmation — 11 days no reply.",
       "date": "Jul 7, 2026"
-    },
-    {
-      "brand": "Nordigenix",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Hiba (freelance broker) asked for audience demographics Jun 21; Prithal replied same day; no response in 26 days — within 30-day window.",
-      "date": "Jun 21, 2026"
     },
     {
       "brand": "MilesWeb",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Nisha (Outreach Specialist) reached out Jul 14; Prithal sent rates Jul 15; Nisha replied asking if pricing is negotiable for long-term multi-video deal — draft reply saved Jul 17.",
+      "notes": "Nisha (Outreach Specialist) reached out Jul 14; Prithal sent rates Jul 15; Nisha replied Jul 15 asking if pricing is negotiable for long-term collaboration — draft reply saved Jul 18.",
       "date": "Jul 15, 2026"
+    },
+    {
+      "brand": "CreatorBridge Media",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Karunesh reached out Jul 13; Prithal sent rates ($600 dedicated); Karunesh offered ₹7,000 Jul 17, Prithal declined; Karunesh countered ₹10,000 (~$120) Jul 17 — draft decline saved Jul 18.",
+      "date": "Jul 17, 2026"
     }
   ],
   "active": [
@@ -40,7 +40,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Rate $500 agreed with Rajani Jul 3; contract template sent by Daniel Jul 8; Daniel followed up Jul 13 — draft reply saved, contract review and signature pending.",
+      "notes": "Rate $500 agreed with Rajani Jul 3; contract sent by Daniel Jul 8 (50% upfront + 50% post); Daniel followed up Jul 13, Rajani followed up Jul 16 — draft reply saved Jul 18, contract review pending.",
       "date": "Jul 8, 2026"
     },
     {
@@ -48,8 +48,8 @@
       "type": "Midroll Integration",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "3x midroll integrations for Google AI Professional Certificate (Coursera); $500 total; first video shared Jul 16, Alex approved with tracking links; payment dispute — Prithal requires 50% advance, Alex says payment after video goes live. Draft reply saved.",
-      "date": "Jul 16, 2026"
+      "notes": "3x midroll integrations for Google AI Professional Certificate (Coursera); $500 total; video 1 live Jul 17; Alex to submit proof of work to Coursera; ~37-day payment window; 2 more midrolls to deliver.",
+      "date": "Jul 17, 2026"
     }
   ],
   "finished": []
