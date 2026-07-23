@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-20T06:00:00Z",
+  "last_updated": "2026-07-23T18:30:00Z",
   "talking": [
     {
-      "brand": "TapVid (SigmaZ AI)",
-      "type": "Midroll Integration",
-      "amount": 300,
+      "brand": "WeWeb",
+      "type": "Dedicated Video",
+      "amount": 500,
       "status": "Negotiating",
-      "notes": "Maylee (KOL Manager) expressed interest in Short or Midroll at $300; Prithal sent YouTube Analytics screenshot Jul 7 as requested; awaiting audience fit confirmation — 13 days no reply.",
-      "date": "Jul 7, 2026"
+      "notes": "Ishika reached out Jul 23 for India audience campaign; Prithal declined $400 offer; Ishika asked for best rate — draft reply saved Jul 23 offering $500.",
+      "date": "Jul 23, 2026"
     },
     {
       "brand": "MilesWeb",
       "type": "Dedicated Video",
       "amount": 800,
       "status": "Negotiating",
-      "notes": "Nisha (Outreach Specialist) reached out Jul 14; Prithal sent rates ($800 dedicated) Jul 15; Nisha replied Jul 15 asking if pricing is negotiable for long-term collaboration — draft reply saved Jul 18, awaiting send.",
+      "notes": "Nisha reached out Jul 14; Prithal sent rates ($800 dedicated) Jul 15; Nisha replied Jul 15 asking if pricing negotiable for long-term — draft reply saved Jul 23.",
       "date": "Jul 15, 2026"
     },
     {
@@ -22,8 +22,16 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Karunesh reached out Jul 13; Prithal sent rates ($600 dedicated); Karunesh offered ₹7,000 Jul 17, Prithal declined; Karunesh countered ₹10,000 (~$120) Jul 17 — draft decline saved Jul 18.",
+      "notes": "Karunesh reached out Jul 13; Prithal sent rates; Karunesh offered ₹7,000 (declined), countered ₹10,000 (~$120) Jul 17 — draft decline saved Jul 23.",
       "date": "Jul 17, 2026"
+    },
+    {
+      "brand": "Iron Edit (Sunny)",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Sunny (intermediary for AI/tech brands) reached out Jul 21; Prithal sent rates; Sunny replied Jul 23 confirming will review with brands and revert with brief.",
+      "date": "Jul 23, 2026"
     }
   ],
   "active": [
@@ -40,7 +48,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Rate $500 agreed with Rajani Jul 3; contract sent by Daniel Jul 8 (50% upfront + 50% post); Daniel followed up Jul 13, Rajani followed up Jul 16 — draft reply saved Jul 18, contract review pending.",
+      "notes": "Rate $500 agreed with Rajani Jul 3; contract sent by Daniel Jul 8 (50% upfront + 50% post); Daniel followed up Jul 13, Rajani followed up Jul 16 — contract review pending.",
       "date": "Jul 8, 2026"
     },
     {
@@ -50,7 +58,24 @@
       "status": "Confirmed",
       "notes": "3x midroll integrations for Google AI Professional Certificate (Coursera); $500 total; video 1 live Jul 17; Alex to submit proof of work to Coursera; ~37-day payment window; 2 more midrolls to deliver.",
       "date": "Jul 17, 2026"
+    },
+    {
+      "brand": "Jet Admin",
+      "type": "Dedicated Video",
+      "amount": 600,
+      "status": "Confirmed",
+      "notes": "Anton (CEO) reached out Jul 21; rate confirmed $600 dedicated video Jul 22 (9k-15k avg views, 2 revisions, desc link, community post); Prithal sent payment terms Jul 23 — awaiting brief.",
+      "date": "Jul 22, 2026"
     }
   ],
-  "finished": []
+  "finished": [
+    {
+      "brand": "Suno (via Influenzo)",
+      "type": "Dedicated Video",
+      "amount": 300,
+      "status": "Delivered",
+      "notes": "Collaboration via Influenzo Studio (Samir); content delivered; invoice submitted to Suno finance team Jul 22 — payment via PayPal pending internal approval.",
+      "date": "Jul 22, 2026"
+    }
+  ]
 }
