@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T06:00:00Z",
+  "last_updated": "2026-07-25T06:10:00Z",
   "talking": [
     {
       "brand": "WeWeb",
@@ -48,7 +48,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Rate $500 agreed with Rajani Jul 3; contract sent by Daniel Jul 8 (50% upfront + 50% post); Daniel followed up Jul 13, Rajani followed up Jul 16 — contract review pending.",
+      "notes": "Rate $500 agreed with Rajani Jul 3; contract sent by Daniel Jul 8 (50% upfront + 50% post); Daniel followed up Jul 13, Rajani followed up Jul 23 — draft reply saved Jul 25, contract review urgent.",
       "date": "Jul 8, 2026"
     },
     {
@@ -74,8 +74,8 @@
       "type": "Dedicated Video",
       "amount": 300,
       "status": "Delivered",
-      "notes": "Collaboration via Influenzo Studio (Samir); content delivered; invoice submitted to Suno finance team Jul 22 — payment via PayPal pending internal approval.",
-      "date": "Jul 22, 2026"
+      "notes": "Content delivered; invoice submitted Jul 22; Samir (Influenzo) confirmed Jul 24 payment released via PayPal — expected early next week.",
+      "date": "Jul 24, 2026"
     }
   ]
 }
