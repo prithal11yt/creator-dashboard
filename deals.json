@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T06:10:00Z",
+  "last_updated": "2026-07-26T12:30:00Z",
   "talking": [
     {
       "brand": "WeWeb",
@@ -64,7 +64,7 @@
       "type": "Dedicated Video",
       "amount": 600,
       "status": "Confirmed",
-      "notes": "Anton (CEO) reached out Jul 21; rate confirmed $600 dedicated video Jul 22 (9k-15k avg views, 2 revisions, desc link, community post); Prithal sent payment terms Jul 23 — awaiting brief.",
+      "notes": "Rate confirmed $600 Jul 22 (9k-15k avg views, 2 revisions, desc link, community post); payment terms sent Jul 23; Anton confirmed timeline Jul 24 and will send brief + product access — awaiting brief.",
       "date": "Jul 22, 2026"
     }
   ],
@@ -74,8 +74,8 @@
       "type": "Dedicated Video",
       "amount": 300,
       "status": "Delivered",
-      "notes": "Content delivered; invoice submitted Jul 22; Samir (Influenzo) confirmed Jul 24 payment released via PayPal — expected early next week.",
-      "date": "Jul 24, 2026"
+      "notes": "Content delivered; payment received Jul 26 via PayPal; Samir (Influenzo) requesting ₹4800 commission via UPI Jul 26 — draft reply saved.",
+      "date": "Jul 26, 2026"
     }
   ]
 }
