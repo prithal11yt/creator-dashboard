@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-27T11:30:00Z",
+  "last_updated": "2026-07-28T08:00:00Z",
   "talking": [
     {
       "brand": "WeWeb",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Ishika reached out Jul 23; Prithal declined $400 offer; Ishika asked best rate Jul 23 — draft reply offering $500 flat rate saved Jul 24.",
+      "notes": "Ishika reached out Jul 23; Prithal declined $400 offer, countered $700 Jul 23; no WeWeb reply in 5 days; follow-up draft at $500 saved Jul 28.",
       "date": "Jul 23, 2026"
     },
     {
@@ -32,6 +32,14 @@
       "status": "Negotiating",
       "notes": "Sunny (intermediary for AI/tech brands) reached out Jul 21; Prithal sent rates; Sunny replied Jul 23 confirming will review with brands and revert with brief.",
       "date": "Jul 23, 2026"
+    },
+    {
+      "brand": "Green Soul",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Nazik (Bureau Media Ventures) reached out Jul 27 for Green Soul; active back-and-forth on pricing in INR; Nazik asked for separate cost breakdown Jul 28; draft reply with INR rates saved.",
+      "date": "Jul 27, 2026"
     }
   ],
   "active": [
@@ -48,7 +56,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Rate $500 agreed with Rajani Jul 3; contract sent by Daniel Jul 8 (50% upfront + 50% post); Daniel followed up Jul 13, Rajani followed up Jul 23 — draft reply saved Jul 25, contract review urgent.",
+      "notes": "Rate $500 agreed with Rajani Jul 3; contract sent by Daniel Jul 8 (50% upfront + 50% post); Rajani followed up Jul 23 — contract review urgent.",
       "date": "Jul 8, 2026"
     },
     {
@@ -56,7 +64,7 @@
       "type": "Midroll Integration",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "3x midroll integrations for Google AI Professional Certificate (Coursera); $500 total; video 1 live Jul 17; Alex to submit proof of work to Coursera; ~37-day payment window; 2 more midrolls to deliver.",
+      "notes": "3x midroll integrations for Google AI Professional Certificate (Coursera); $500 total; video 1 live Jul 17; ~37-day payment window; 2 more midrolls to deliver.",
       "date": "Jul 17, 2026"
     },
     {
@@ -64,7 +72,7 @@
       "type": "Dedicated Video",
       "amount": 600,
       "status": "Confirmed",
-      "notes": "Rate confirmed $600 Jul 22 (9k-15k avg views, 2 revisions, desc link, community post); payment terms sent Jul 23; Anton confirmed timeline Jul 24 and will send brief + product access — awaiting brief.",
+      "notes": "Rate confirmed $600 Jul 22; 50% advance after brief review agreed; Anton confirmed timeline Jul 24 and will send brief + product access — follow-up draft saved Jul 28.",
       "date": "Jul 22, 2026"
     }
   ],
@@ -74,7 +82,7 @@
       "type": "Dedicated Video",
       "amount": 300,
       "status": "Delivered",
-      "notes": "Content delivered; payment received Jul 26 via PayPal; Samir (Influenzo) requesting ₹4800 commission via UPI (7798283913@ybl) Jul 26; Samir followed up Jul 27 — draft reply saved Jul 27.",
+      "notes": "Content delivered; payment received Jul 26 via PayPal; Samir (Influenzo) commission ₹4800 paid via UPI Jul 27; Samir confirmed receipt — deal fully closed.",
       "date": "Jul 26, 2026"
     }
   ]
