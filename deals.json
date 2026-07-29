@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-28T08:00:00Z",
+  "last_updated": "2026-07-29T07:00:00Z",
   "talking": [
     {
       "brand": "WeWeb",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Ishika reached out Jul 23; Prithal declined $400 offer, countered $700 Jul 23; no WeWeb reply in 5 days; follow-up draft at $500 saved Jul 28.",
+      "notes": "Ishika reached out Jul 23; Prithal declined $400 offer, countered $700 Jul 23; no WeWeb reply in 6 days; follow-up draft at $500 saved Jul 28.",
       "date": "Jul 23, 2026"
     },
     {
@@ -38,7 +38,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Nazik (Bureau Media Ventures) reached out Jul 27 for Green Soul; active back-and-forth on pricing in INR; Nazik asked for separate cost breakdown Jul 28; draft reply with INR rates saved.",
+      "notes": "Nazik (Bureau Media Ventures) reached out Jul 27 for Green Soul (Dedicated + Integrated); Prithal sent INR breakdown Jul 28: ₹45,000 dedicated, ₹28,000 integrated; awaiting Nazik's decision.",
       "date": "Jul 27, 2026"
     }
   ],
