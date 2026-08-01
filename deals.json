@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-31T12:00:00Z",
+  "last_updated": "2026-08-01T00:00:00Z",
   "talking": [
     {
       "brand": "WeWeb",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Ishika reached out Jul 23; Prithal declined $400 offer, countered $700 Jul 23; no WeWeb reply in 6 days; follow-up draft at $500 saved Jul 28.",
+      "notes": "Ishika reached out Jul 23; Prithal declined $400 offer, countered $700 Jul 23; follow-up draft at $500 sent Jul 28 — no reply from WeWeb as of Aug 1.",
       "date": "Jul 23, 2026"
     },
     {
@@ -38,7 +38,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Nazik (Bureau Media Ventures) reached out Jul 27 for Green Soul (Dedicated + Integrated); Prithal sent INR breakdown Jul 28: ₹45,000 dedicated, ₹28,000 integrated; awaiting Nazik's decision.",
+      "notes": "Nazik (Bureau Media Ventures) reached out Jul 27; rates sent Jul 28; Nazik asked for separate INR breakdown Jul 28 — draft reply sent Aug 1: ₹42,000 dedicated, ₹17,000 midroll.",
       "date": "Jul 27, 2026"
     }
   ],
@@ -64,7 +64,7 @@
       "type": "Midroll Integration",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "3x midroll integrations for Google AI Professional Certificate (Coursera); $500 total; video 1 live Jul 17; ~37-day payment window; 2 more midrolls to deliver.",
+      "notes": "3x midroll integrations for Google AI Professional Certificate; $500 total; video 1 live Jul 17; payment not received — escalated Jul 22; legal notice sent Jul 31 with 3-day ultimatum; awaiting response.",
       "date": "Jul 17, 2026"
     },
     {
@@ -72,7 +72,7 @@
       "type": "Dedicated Video",
       "amount": 600,
       "status": "Confirmed",
-      "notes": "Rate confirmed $600 Jul 22; 50% advance after brief review agreed; Anton confirmed timeline Jul 24 and will send brief + product access — follow-up drafts saved Jul 28, Jul 31.",
+      "notes": "Rate confirmed $600 Jul 22; 50% advance after brief review agreed; Anton confirmed timeline Jul 24 will send brief + product access — follow-ups sent Jul 28, Jul 31; awaiting brief from Anton as of Aug 1.",
       "date": "Jul 22, 2026"
     }
   ],
