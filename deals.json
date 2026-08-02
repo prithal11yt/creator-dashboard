@@ -1,20 +1,12 @@
 {
-  "last_updated": "2026-08-01T00:00:00Z",
+  "last_updated": "2026-08-02T13:00:00Z",
   "talking": [
-    {
-      "brand": "WeWeb",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Ishika reached out Jul 23; Prithal declined $400 offer, countered $700 Jul 23; follow-up draft at $500 sent Jul 28 — no reply from WeWeb as of Aug 1.",
-      "date": "Jul 23, 2026"
-    },
     {
       "brand": "MilesWeb",
       "type": "Dedicated Video",
       "amount": 800,
       "status": "Negotiating",
-      "notes": "Nisha reached out Jul 14; Prithal sent rates ($800 dedicated) Jul 15; Nisha replied Jul 15 asking if pricing negotiable for long-term — draft reply saved Jul 23.",
+      "notes": "Nisha reached out Jul 14; Prithal sent rates ($800 dedicated) Jul 15; Nisha replied asking if pricing negotiable for long-term — awaiting reply.",
       "date": "Jul 15, 2026"
     },
     {
@@ -22,7 +14,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Karunesh reached out Jul 13; Prithal sent rates; Karunesh offered ₹7,000 (declined), countered ₹10,000 (~$120) Jul 17 — draft decline saved Jul 23.",
+      "notes": "Karunesh reached out Jul 13; Prithal sent rates; Karunesh offered ₹7,000 (declined), countered ₹10,000 (~$120) Jul 17 — draft decline saved.",
       "date": "Jul 17, 2026"
     },
     {
@@ -32,14 +24,6 @@
       "status": "Negotiating",
       "notes": "Sunny (intermediary for AI/tech brands) reached out Jul 21; Prithal sent rates; Sunny replied Jul 23 confirming will review with brands and revert with brief.",
       "date": "Jul 23, 2026"
-    },
-    {
-      "brand": "Green Soul",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Nazik (Bureau Media Ventures) reached out Jul 27; rates sent Jul 28; Nazik asked for separate INR breakdown Jul 28 — draft reply sent Aug 1: ₹42,000 dedicated, ₹17,000 midroll.",
-      "date": "Jul 27, 2026"
     }
   ],
   "active": [
@@ -64,7 +48,7 @@
       "type": "Midroll Integration",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "3x midroll integrations for Google AI Professional Certificate; $500 total; video 1 live Jul 17; payment not received — escalated Jul 22; legal notice sent Jul 31 with 3-day ultimatum; awaiting response.",
+      "notes": "3x midroll integrations for Google AI Professional Certificate; $500 total; video 1 live Jul 17; payment not received — legal notice sent Jul 31 with 3-day ultimatum; response due Aug 3.",
       "date": "Jul 17, 2026"
     },
     {
@@ -72,7 +56,7 @@
       "type": "Dedicated Video",
       "amount": 600,
       "status": "Confirmed",
-      "notes": "Rate confirmed $600 Jul 22; 50% advance after brief review agreed; Anton confirmed timeline Jul 24 will send brief + product access — follow-ups sent Jul 28, Jul 31; awaiting brief from Anton as of Aug 1.",
+      "notes": "Rate confirmed $600 Jul 22; 50% advance after brief agreed; follow-ups sent Jul 28 and Jul 31 — awaiting brief and product access from Anton.",
       "date": "Jul 22, 2026"
     }
   ],
@@ -82,7 +66,7 @@
       "type": "Dedicated Video",
       "amount": 300,
       "status": "Delivered",
-      "notes": "Content delivered; payment received Jul 26 via PayPal; Samir (Influenzo) commission ₹4800 paid via UPI Jul 27; Samir confirmed receipt — deal fully closed.",
+      "notes": "Content delivered; payment received Jul 26 via PayPal; Samir (Influenzo) commission ₹4800 paid via UPI Jul 27; deal fully closed.",
       "date": "Jul 26, 2026"
     }
   ]
