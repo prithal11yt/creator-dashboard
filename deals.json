@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-03T12:00:00Z",
+  "last_updated": "2026-08-04T07:30:00Z",
   "talking": [
     {
       "brand": "MilesWeb",
       "type": "Dedicated Video",
-      "amount": 800,
+      "amount": 500,
       "status": "Negotiating",
-      "notes": "Nisha reached out Jul 14; Prithal sent rates Jul 15; Nisha replied asking if pricing negotiable for long-term — Prithal yet to reply.",
+      "notes": "Nisha reached out Jul 14; Prithal sent rates Jul 15; Nisha replied asking if pricing negotiable for long-term — draft reply saved Aug 4 holding firm at $500.",
       "date": "Jul 15, 2026"
     },
     {
@@ -19,10 +19,10 @@
     },
     {
       "brand": "InMobi (via Kinnect)",
-      "type": "Short",
-      "amount": 200,
+      "type": "Short + Dedicated Video",
+      "amount": 700,
       "status": "Negotiating",
-      "notes": "Riya (Kinnect) reached out Jul 31 for 1 YT Short + 1 Long-form; Prithal sent rates Aug 1; Riya replied Aug 3 asking location — draft reply saved.",
+      "notes": "Riya (Kinnect) reached out Jul 31 for 1 YT Short + 1 Long-form; Prithal sent rates Aug 1 ($700 dedicated + $400 short); Riya replied Aug 3 asking location — draft reply saved Aug 4.",
       "date": "Aug 3, 2026"
     },
     {
@@ -30,7 +30,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Ryn reached out Jul 31; Prithal asked for proposal; Camika sent campaign brief Aug 3 (dedicated video, Comic/Manga feature) asking for rate + analytics — draft reply saved.",
+      "notes": "Ryn reached out Jul 31; Prithal asked for proposal; Camika sent campaign brief Aug 3 (dedicated video, Comic/Manga feature) asking for rate + analytics — draft reply saved Aug 4 quoting $500.",
       "date": "Aug 3, 2026"
     },
     {
@@ -40,6 +40,14 @@
       "status": "Negotiating",
       "notes": "Long-running partnership with Shikha (hostingermedia.com); content partnership ongoing since May 2026; Shikha OOO Jul 27–Aug 8 — resuming after Aug 8.",
       "date": "Aug 1, 2026"
+    },
+    {
+      "brand": "WeWeb",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Ishika (WeWeb) reached out Jul 23; Prithal sent rates; active back-and-forth on budget — Ishika asked 'what's the best you can do?' Jul 23; draft reply saved Aug 4 offering $500 as best rate.",
+      "date": "Jul 23, 2026"
     }
   ],
   "active": [
