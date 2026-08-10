@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T07:30:00Z",
+  "last_updated": "2026-08-10T00:00:00Z",
   "talking": [
     {
       "brand": "MilesWeb",
@@ -22,32 +22,40 @@
       "type": "Short + Dedicated Video",
       "amount": 700,
       "status": "Negotiating",
-      "notes": "Riya (Kinnect) reached out Jul 31 for 1 YT Short + 1 Long-form; Prithal sent rates Aug 1 ($700 dedicated + $400 short); Riya replied Aug 3 asking location — draft reply saved Aug 4.",
+      "notes": "Riya (Kinnect) reached out Jul 31 for 1 YT Short + 1 Long-form; Prithal sent rates Aug 1; Riya replied Aug 3 asking location — draft reply saved Aug 4.",
       "date": "Aug 3, 2026"
-    },
-    {
-      "brand": "Camika AI",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Ryn reached out Jul 31; Prithal asked for proposal; Camika sent campaign brief Aug 3 (dedicated video, Comic/Manga feature) asking for rate + analytics — draft reply saved Aug 4 quoting $500.",
-      "date": "Aug 3, 2026"
-    },
-    {
-      "brand": "Hostinger",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Long-running partnership with Shikha (hostingermedia.com); content partnership ongoing since May 2026; Shikha OOO Jul 27–Aug 8 — resuming after Aug 8.",
-      "date": "Aug 1, 2026"
     },
     {
       "brand": "WeWeb",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Ishika (WeWeb) reached out Jul 23; Prithal sent rates; active back-and-forth on budget — Ishika asked 'what's the best you can do?' Jul 23; draft reply saved Aug 4 offering $500 as best rate.",
+      "notes": "Ishika (WeWeb) reached out Jul 23; Prithal sent rates; active back-and-forth on budget — Ishika asked what is the best rate Jul 23; draft reply saved Aug 4 offering $500 as best rate.",
       "date": "Jul 23, 2026"
+    },
+    {
+      "brand": "SEELE AI",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "James (SEELE AI KOL team) reached out Aug 7; Prithal replied YouTube-only fixed-fee Aug 8; James replied Aug 8 asking for rates and media kit — draft reply saved Aug 10 quoting $500.",
+      "date": "Aug 8, 2026"
+    },
+    {
+      "brand": "Upsurge.club",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Krina (Upsurge.club EdTech, 300K+ users) reached out Aug 7 for content collaboration; Prithal agreed to a call Aug 7 and asked for Calendly — awaiting.",
+      "date": "Aug 7, 2026"
+    },
+    {
+      "brand": "VestaScan",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Hafees reached out Aug 6 with commission-only model; Prithal insisted fixed-fee; Hafees asked for rates Aug 7; Prithal sent $500/$200/$200 rates Aug 8; Hafees counter-offered $150 upfront + 15% commission Aug 10 — draft reply saved declining hybrid.",
+      "date": "Aug 10, 2026"
     }
   ],
   "active": [
@@ -90,7 +98,7 @@
       "type": "Dedicated Video",
       "amount": 300,
       "status": "Delivered",
-      "notes": "Content delivered; payment received Jul 26 via PayPal; Samir (Influenzo) commission ₹4800 paid via UPI Jul 27; deal fully closed.",
+      "notes": "Content delivered; payment received Jul 26 via PayPal; Samir (Influenzo) commission Rs4800 paid via UPI Jul 27; deal fully closed.",
       "date": "Jul 26, 2026"
     }
   ]
