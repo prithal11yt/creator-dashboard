@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T00:00:00Z",
+  "last_updated": "2026-08-12T09:00:00Z",
   "talking": [
     {
       "brand": "MilesWeb",
@@ -22,7 +22,7 @@
       "type": "Short + Dedicated Video",
       "amount": 700,
       "status": "Negotiating",
-      "notes": "Riya (Kinnect) reached out Jul 31 for 1 YT Short + 1 Long-form; Prithal sent rates Aug 1; Riya replied Aug 3 asking location — draft reply saved Aug 4.",
+      "notes": "Riya (Kinnect) reached out Jul 31 for 1 YT Short + 1 Long-form; Prithal sent rates Aug 1; Riya replied Aug 3 asking location — draft reply saved Aug 12 answering India.",
       "date": "Aug 3, 2026"
     },
     {
@@ -38,8 +38,8 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "James (SEELE AI KOL team) reached out Aug 7; Prithal replied YouTube-only fixed-fee Aug 8; James replied Aug 8 asking for rates and media kit — James followed up Aug 10 requesting full media kit (views, geography, demographics, watch time); draft reply saved Aug 11 with rates ($500) and channel overview.",
-      "date": "Aug 10, 2026"
+      "notes": "James (SEELE AI KOL team) reached out Aug 7; Prithal replied YouTube-only fixed-fee Aug 8; James replied Aug 8 asking for rates and media kit — draft reply saved Aug 12 with rates ($500) and channel overview.",
+      "date": "Aug 8, 2026"
     },
     {
       "brand": "Upsurge.club",
@@ -54,8 +54,8 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Hafees reached out Aug 6 with commission-only model; Prithal insisted fixed-fee; Hafees asked for rates; Prithal quoted $600/$300/$300 Aug 8; Hafees counter-offered $150 upfront+15% Aug 10; Prithal firmly declined hybrid Aug 11; Hafees replied Aug 11 asking format difference (midroll vs short) and proposing $200+15% — draft reply saved Aug 11 explaining formats and declining hybrid again.",
-      "date": "Aug 11, 2026"
+      "notes": "Hafees reached out Aug 6 with commission-only model; multiple rounds of back-and-forth on hybrid structure; Prithal replied Aug 12 firmly declining hybrid, explained midroll vs short format, holding fixed-fee ($500 dedicated / $300 midroll / $300 short) — awaiting Hafees' response.",
+      "date": "Aug 12, 2026"
     }
   ],
   "active": [
@@ -72,7 +72,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Rate $500 agreed with Rajani Jul 3; contract sent by Daniel Jul 8 (50% upfront + 50% post); Rajani followed up Jul 23 — contract review urgent.",
+      "notes": "Rate $500 agreed with Rajani Jul 3; DocuSign contract sent by Camelia (Contabo) Jul 8 (50% upfront + 50% post); DocuSign reminders sent Aug 7, Aug 9, Aug 11 — contract still unsigned. ACTION REQUIRED: sign DocuSign immediately.",
       "date": "Jul 8, 2026"
     },
     {
@@ -80,7 +80,7 @@
       "type": "Midroll Integration",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "3x midroll integrations for Google AI Professional Certificate; $500 total; video 1 live Jul 17; payment not received — legal notice sent Jul 31; CourseNJobs replied Aug 3 denying fraud intent; payment dispute ongoing.",
+      "notes": "3x midroll integrations for Google AI Professional Certificate; $500 total; video 1 live Jul 17; payment received — confirmed by creator Aug 7; CourseNJobs asked about email alias Aug 8; 2 more videos still to deliver.",
       "date": "Jul 17, 2026"
     },
     {
