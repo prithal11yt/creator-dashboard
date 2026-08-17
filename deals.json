@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T09:00:00Z",
+  "last_updated": "2026-08-17T06:30:00Z",
   "talking": [
     {
       "brand": "MilesWeb",
@@ -56,6 +56,14 @@
       "status": "Negotiating",
       "notes": "Hafees reached out Aug 6 with commission-only model; multiple rounds of back-and-forth on hybrid structure; Prithal replied Aug 12 firmly declining hybrid, explained midroll vs short format, holding fixed-fee ($500 dedicated / $300 midroll / $300 short) — awaiting Hafees' response.",
       "date": "Aug 12, 2026"
+    },
+    {
+      "brand": "VideoCoding",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Alhazar (VideoCoding) reached out Aug 14 offering paid collaboration + free 1-month Pro access to test first; Prithal replied Aug 16 expressing interest — awaiting creator code from VideoCoding before rates discussion.",
+      "date": "Aug 16, 2026"
     }
   ],
   "active": [
@@ -88,7 +96,7 @@
       "type": "Dedicated Video",
       "amount": 600,
       "status": "Confirmed",
-      "notes": "Rate confirmed $600 Jul 22; 50% advance after brief review agreed; target publish was Aug 5-6 — brief and product access from Anton still not received, now overdue. Follow-up draft saved Aug 14.",
+      "notes": "Rate confirmed $600 Jul 22; 50% advance after brief review agreed; target publish was Aug 5-6 — brief and product access from Anton still not received, 12+ days overdue. Follow-up draft saved Aug 15.",
       "date": "Jul 22, 2026"
     }
   ],
