@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-17T06:30:00Z",
+  "last_updated": "2026-08-21T12:00:00Z",
   "talking": [
     {
       "brand": "MilesWeb",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Nisha reached out Jul 14; Prithal sent rates Jul 15; Nisha replied asking if pricing negotiable for long-term — draft reply saved Aug 14 holding firm at $500.",
+      "notes": "Nisha reached out Jul 14; Prithal sent rates Jul 15; Nisha replied asking if pricing negotiable for long-term — draft reply saved Aug 21 holding firm at $500.",
       "date": "Jul 15, 2026"
     },
     {
@@ -14,7 +14,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Sunny (intermediary for AI/tech brands) reached out Jul 21; Prithal sent rates; Sunny replied Jul 23 confirming will review with brands and revert with brief — awaiting.",
+      "notes": "Sunny (intermediary for AI/tech brands) reached out Jul 21; Prithal sent rates; Sunny replied Jul 23 confirming will review with brands and revert with brief — nearing 30-day threshold, awaiting.",
       "date": "Jul 23, 2026"
     },
     {
@@ -22,7 +22,7 @@
       "type": "Short + Dedicated Video",
       "amount": 700,
       "status": "Negotiating",
-      "notes": "Riya (Kinnect) reached out Jul 31 for 1 YT Short + 1 Long-form; Prithal sent rates Aug 1; Riya replied Aug 3 asking location — draft reply saved Aug 12 answering India.",
+      "notes": "Riya (Kinnect) reached out Jul 31 for 1 YT Short + 1 Long-form; Prithal sent rates Aug 1; Riya replied Aug 3 asking location — draft reply saved Aug 21 answering India (Pune).",
       "date": "Aug 3, 2026"
     },
     {
@@ -30,7 +30,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Ishika (WeWeb) reached out Jul 23; Prithal sent rates; active back-and-forth on budget — Ishika asked what is the best rate Jul 23; draft reply saved Aug 14 offering $500 as best rate.",
+      "notes": "Ishika (WeWeb) reached out Jul 23; active back-and-forth on budget; Ishika asked what is the best rate Jul 23 — draft reply saved Aug 21 confirming $500 as firm best rate.",
       "date": "Jul 23, 2026"
     },
     {
@@ -38,7 +38,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "James (SEELE AI KOL team) reached out Aug 7; Prithal replied YouTube-only fixed-fee Aug 8; James replied Aug 8 asking for rates and media kit — draft reply saved Aug 14 with rates ($500) and channel overview.",
+      "notes": "James (SEELE AI KOL team) reached out Aug 7; Prithal replied YouTube-only fixed-fee Aug 8; James replied Aug 8 asking for rates — draft reply saved Aug 21 with rates ($500) and channel overview.",
       "date": "Aug 8, 2026"
     },
     {
@@ -46,24 +46,24 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Krina (Upsurge.club EdTech, 300K+ users) reached out Aug 7 for content collaboration; Prithal agreed to a call Aug 7 and asked for Calendly — awaiting.",
+      "notes": "Krina (Upsurge.club EdTech, 300K+ users) reached out Aug 7 for content collaboration; Prithal agreed to a call Aug 7 and asked for Calendly — awaiting Krina's response.",
       "date": "Aug 7, 2026"
-    },
-    {
-      "brand": "VestaScan",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Hafees reached out Aug 6 with commission-only model; multiple rounds of back-and-forth on hybrid structure; Prithal replied Aug 12 firmly declining hybrid, explained midroll vs short format, holding fixed-fee ($500 dedicated / $300 midroll / $300 short) — awaiting Hafees' response.",
-      "date": "Aug 12, 2026"
     },
     {
       "brand": "VideoCoding",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Alhazar (VideoCoding) reached out Aug 14 offering paid collaboration + free 1-month Pro access to test first; Prithal replied Aug 16 expressing interest — awaiting creator code from VideoCoding before rates discussion.",
+      "notes": "Alhazar (VideoCoding) reached out Aug 14 offering paid collaboration + free 1-month Pro access; Prithal replied Aug 16 expressing interest — awaiting creator code from VideoCoding before rates discussion.",
       "date": "Aug 16, 2026"
+    },
+    {
+      "brand": "Invoice45.com",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Shailesh (Invoice45 — invoicing platform for freelancers) reached out Aug 18; Prithal sent rates ($500 dedicated); Shailesh replied Aug 19 with full product details and collab vision — draft reply saved Aug 21 confirming $500 and deliverables.",
+      "date": "Aug 19, 2026"
     }
   ],
   "active": [
@@ -80,7 +80,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "Rate $500 agreed with Rajani Jul 3; DocuSign contract sent by Contabo Jul 8 (50% upfront + 50% post); follow-ups from Contabo Jul 13 and Jul 23 — contract still unsigned. Draft reply saved Aug 14. ACTION REQUIRED: sign DocuSign immediately.",
+      "notes": "Rate $500 agreed with Rajani Jul 3; DocuSign contract sent Jul 8 (50% upfront + 50% post); DocuSign reminders received Aug 17 and Aug 19 from Camelia (contabo.de). ACTION REQUIRED: Sign DocuSign immediately.",
       "date": "Jul 8, 2026"
     },
     {
@@ -88,7 +88,7 @@
       "type": "Midroll Integration",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "3x midroll integrations for Google AI Professional Certificate; $500 total; video 1 live Jul 17; payment received — confirmed by creator Aug 7; CourseNJobs asked about email alias Aug 8; 2 more videos still to deliver.",
+      "notes": "3x midroll integrations for Google AI Professional Certificate; $500 total; video 1 live Jul 17; payment received — confirmed Aug 7; CourseNJobs asked about email alias Aug 8; 2 more videos still to deliver.",
       "date": "Jul 17, 2026"
     },
     {
@@ -96,7 +96,7 @@
       "type": "Dedicated Video",
       "amount": 600,
       "status": "Confirmed",
-      "notes": "Rate confirmed $600 Jul 22; 50% advance after brief review agreed; target publish was Aug 5-6 — brief and product access from Anton still not received, 12+ days overdue. Follow-up draft saved Aug 15.",
+      "notes": "Anton confirmed $600 for dedicated video Jul 22; said brief and product access coming soon — now 30 days overdue (no reply to Prithal's Jul 28 follow-up). ACTION: Send another follow-up.",
       "date": "Jul 22, 2026"
     }
   ],
