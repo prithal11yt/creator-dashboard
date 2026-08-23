@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T06:00:00Z",
+  "last_updated": "2026-08-23T12:00:00Z",
   "talking": [
     {
       "brand": "MilesWeb",
@@ -10,28 +10,12 @@
       "date": "Jul 15, 2026"
     },
     {
-      "brand": "Iron Edit (Sunny)",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Sunny (intermediary for AI/tech brands) reached out Jul 21; Prithal sent rates; Sunny replied Jul 23 confirming will review with brands and revert with brief — at 30-day threshold Aug 22, no reply yet.",
-      "date": "Jul 23, 2026"
-    },
-    {
       "brand": "InMobi (via Kinnect)",
       "type": "Short + Dedicated Video",
       "amount": 700,
       "status": "Negotiating",
       "notes": "Riya (Kinnect) reached out Jul 31 for 1 YT Short + 1 Long-form; Prithal sent rates Aug 1; Riya replied Aug 3 asking location — draft reply saved Aug 21 answering India (Pune).",
       "date": "Aug 3, 2026"
-    },
-    {
-      "brand": "WeWeb",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Negotiating",
-      "notes": "Ishika (WeWeb) reached out Jul 23; active back-and-forth on budget; Ishika asked what is the best rate Jul 23 — draft reply saved Aug 21 confirming $500 as firm best rate. At 30-day threshold Aug 22.",
-      "date": "Jul 23, 2026"
     },
     {
       "brand": "SEELE AI",
@@ -46,7 +30,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Krina (Upsurge.club EdTech, 300K+ users) reached out Aug 7 for content collaboration; Prithal agreed to a call Aug 7 and asked for Calendly — awaiting Krina's response (15 days).",
+      "notes": "Krina (Upsurge.club EdTech, 300K+ users) reached out Aug 7 for content collaboration; Prithal agreed to a call Aug 7 and asked for Calendly — awaiting Krina's response (16 days).",
       "date": "Aug 7, 2026"
     },
     {
@@ -96,8 +80,16 @@
       "type": "Dedicated Video",
       "amount": 600,
       "status": "Confirmed",
-      "notes": "Anton confirmed $600 for dedicated video Jul 22; said brief and product access coming soon — 31 days with no reply to Prithal's Jul 28 follow-up. ACTION: Send urgent follow-up or consider dropping.",
+      "notes": "Anton confirmed $600 for dedicated video Jul 22; Prithal followed up Jul 28 — no reply in 26 days. ACTION: Send urgent follow-up or consider dropping.",
       "date": "Jul 22, 2026"
+    },
+    {
+      "brand": "Magic Hour",
+      "type": "Dedicated Video",
+      "amount": 400,
+      "status": "Confirmed",
+      "notes": "Ali (Magic Hour) confirmed $400 for dedicated video Aug 18 ('Yes, please proceed'); asked for signup email — draft reply saved Aug 23 sharing email and asking for payment details and timeline.",
+      "date": "Aug 18, 2026"
     }
   ],
   "finished": [
