@@ -1,20 +1,12 @@
 {
-  "last_updated": "2026-09-01T10:30:00Z",
+  "last_updated": "2026-09-04T13:30:00Z",
   "talking": [
-    {
-      "brand": "InMobi (via Kinnect)",
-      "type": "Short + Dedicated Video",
-      "amount": 700,
-      "status": "Negotiating",
-      "notes": "Riya (Kinnect) reached out Jul 31 for 1 YT Short + 1 Long-form; Prithal sent rates Aug 1; Riya replied Aug 3 asking location — draft reply saved Sep 1 answering India (Pune).",
-      "date": "Aug 3, 2026"
-    },
     {
       "brand": "Upsurge.club",
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Krina (Upsurge.club EdTech, 300K+ users) reached out Aug 7 for content collaboration; Prithal agreed to a call Aug 7 and asked for Calendly — no response in 25 days. Consider following up.",
+      "notes": "Krina (Upsurge.club EdTech, 300K+ users) reached out Aug 7 for content collab; Prithal agreed to a call and asked for Calendly — no response in 28 days. Going cold.",
       "date": "Aug 7, 2026"
     },
     {
@@ -22,7 +14,7 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Alhazar (VideoCoding) reached out Aug 14 offering paid collaboration + free 1-month Pro access; Prithal replied Aug 16 expressing interest — awaiting creator code from VideoCoding before rates discussion.",
+      "notes": "Alhazar (VideoCoding) reached out Aug 14 offering paid collab + free 1-month Pro; Prithal replied Aug 16 expressing interest — awaiting creator code before rates discussion.",
       "date": "Aug 16, 2026"
     },
     {
@@ -30,8 +22,16 @@
       "type": "Dedicated Video",
       "amount": 500,
       "status": "Negotiating",
-      "notes": "Shailesh (Invoice45 — invoicing platform for freelancers) reached out Aug 18; Prithal sent rates Aug 18; Shailesh replied Aug 19 with full product details and collab vision — draft reply saved Aug 28 with format options ($500 dedicated / $200 midroll) and request for product access.",
+      "notes": "Shailesh (Invoice45 — invoicing for freelancers) replied Aug 19 with full product details; draft reply saved with format options ($500 dedicated / $200 midroll) and request for product access.",
       "date": "Aug 19, 2026"
+    },
+    {
+      "brand": "Virlo",
+      "type": "Dedicated Video",
+      "amount": 500,
+      "status": "Negotiating",
+      "notes": "Olga replied Sep 2 asking for rate, media kit, and audience demographics — draft reply saved Sep 4 with $500 rate and channel stats.",
+      "date": "Sep 2, 2026"
     }
   ],
   "active": [
@@ -44,19 +44,11 @@
       "date": "Jul 6, 2026"
     },
     {
-      "brand": "Contabo",
-      "type": "Dedicated Video",
-      "amount": 500,
-      "status": "Confirmed",
-      "notes": "Rate $500 agreed with Rajani Jul 3; DocuSign contract sent Jul 8 (50% upfront + 50% post); daily DocuSign reminders still arriving. ACTION REQUIRED: Sign DocuSign immediately.",
-      "date": "Jul 8, 2026"
-    },
-    {
       "brand": "CourseNJobs",
       "type": "Midroll Integration",
       "amount": 500,
       "status": "Confirmed",
-      "notes": "3x midroll integrations for Google AI Professional Certificate; $500 total; video 1 live Jul 17; payment received — confirmed Aug 7; 2 more videos still to deliver.",
+      "notes": "3x midroll integrations for Google AI Professional Certificate; $500 total; video 1 live Jul 17; payment received Aug 7; 2 more videos still to deliver.",
       "date": "Jul 17, 2026"
     },
     {
@@ -64,15 +56,15 @@
       "type": "Dedicated Video",
       "amount": 600,
       "status": "Confirmed",
-      "notes": "$600 confirmed by Anton. Sep 1: Anton messaged — product live at jetadmin.io, wants Prithal to try it and propose video angle/use case before brief. Draft reply saved Sep 1.",
-      "date": "Sep 1, 2026"
+      "notes": "$600 confirmed. Anton asked Prithal to try product and propose angle — draft angle proposal sent Sep 4 (client dashboard use case for solo founders).",
+      "date": "Sep 2, 2026"
     },
     {
       "brand": "Magic Hour",
       "type": "Dedicated Video",
       "amount": 400,
       "status": "Confirmed",
-      "notes": "Ali (Magic Hour) confirmed $400 for dedicated video Aug 18; asked for signup email — draft reply saved Aug 28 sharing prithalbhardwaj@gmail.com and asking for payment details and timeline.",
+      "notes": "Ali (Magic Hour) confirmed $400 for dedicated video Aug 18; draft reply saved sharing email and asking for payment details and timeline.",
       "date": "Aug 18, 2026"
     }
   ],
